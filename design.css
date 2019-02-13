@@ -80,37 +80,27 @@ header nav #card_menu ul li a{
 /***************************************************************/
 /************* PREV NEXT PREV NEXT PREV NEXT PREV NEXT *********/
 /***************************************************************/
-header #prev_section{
-    /* background: red; */
-    width: 35px;
-    height: 35px;
-    cursor: pointer;
-    margin: 10px;
-    position: absolute;
-    top: 0px;
-    overflow: hidden;
-}
+header #prev_section,
 header #next_section{
-    /* background: green; */
-    width: 35px;
-    height: 35px;
+    width: 25px;
+    height: 25px;
     cursor: pointer;
     margin: 5px;
     position: absolute;
-    top:5px;
+    top:0px;
     overflow: hidden;
 }
 header #prev_section{
     right: 35px;
 }
 header #next_section{    
-    right: 7px;
+    right: 5px;
 }
 header #prev_section img,
 header #next_section img{
     width: 250%;
-    top: -26px;
-    left: -29px;
+    top: -19px;
+    left: -19px;
     position: relative;
 }
 header #next_section img{
