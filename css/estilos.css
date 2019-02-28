@@ -59,11 +59,10 @@ header .buscar form button:hover {
 	color: #FFFFFF;
 }
 
-
 /* --- MENU NAV --- */
 header .nav {
 	font-family: 'Roboto', sans-serif;	
-    font-size: 1.2vw;
+    font-size: 0.9vw;
     font-weight: 300;
     color: #666666;
     overflow-x: hidden;	
@@ -87,27 +86,207 @@ header .nav span:hover{
 .carousel-inner{
  	height: 400px;
 }
-.header-text {
+.header-text1, 
+.header-text2,
+.header-text3 {
 	position: absolute;
 	font-family: 'Roboto Black', sans-serif;	
     top: 20%;
-    left: 1.8%;
-    right: auto;
     width: 96.66666666666666%;
 	color: #FFFFFF;
-	opacity: 0.7;
-	/* font-size: 2.2vw; */
-	letter-spacing: 3px;
 }
-.header-text #TT1{
+.header-text1 #S1TT1 {
+	left: 1.8%;
+	letter-spacing: 3px;
+	font-size: 2.5vw;
+	opacity: 0.7;
+}
+.header-text1 #S1TT2 {
+	left: 1.8%;
+	letter-spacing: 3px;
+	font-size: 1.5vw;
+	opacity: 0.7;
+}
+.header-text1 #S1TT3 {
+	left: 1.8%;
+	letter-spacing: 3px;
+	font-size: 2.0vw;
+	opacity: 0.7;
+}
+.header-text2 #S2TT1 {
+	left: 1.8%;
+	letter-spacing: 3px;
 	font-size: 2.5vw;
 }
-.header-text #TT2{
+.header-text2 #S2TT2 {
+	left: 1.8%;
+	letter-spacing: 3px;
 	font-size: 1.5vw;
 }
-.header-text #TT3{
+.header-text2 #S2TT3 {
+	left: 1.8%;
+	letter-spacing: 3px;
+	font-size: 2.5vw;
+}
+.header-text3 #S3TT1 {
+	margin-top: 12%;
+	margin-left: 50%;
+	letter-spacing: 3px;
+	font-size: 1.2vw;
+	opacity: 0.9;
+}
+.header-text3 #S3TT2 {
+	margin-top: 0.5%;
+	margin-right: 20.5%;
+	letter-spacing: 3px;
+	font-size: 2.0vw;
+	opacity: 0.7;
+	line-height: 1.7;
+}
+.main-text {
+    color: red;
+	position: absolute;
+	margin-left: 1.5%;
+    top: 50%;
+    width: 96.6667%;
+}
+.btn-clear{
+	font-family: 'Roboto', sans-serif;	
+    color: #FFFFFF;
+    background-color:  red;
+    border-color: red;
+}
+.btn-clear:hover{
+    color: #FFFFFF;
+    background-color: transparent;
+}
+
+/* -----SECCION DESPUES DEL SLIDER ----- */
+.jumbo {
+	font-family: 'Roboto', sans-serif;
+	margin-top: 1.5%;
+    margin-bottom: 4%;	
+	border: none;
+	background: #F3F3F3;
+	color: #666666;	
+    width: 96.6667%;	
+}
+.jumbo #C3TT1 {
+	font-size: 3vw;
+}
+.jumbo #C3TT2 {
+    margin-bottom: 3%;	
+	font-size: 1.0vw;
+}
+.jumbo #C3TT3 {
+	font-family: 'Roboto', sans-serif;	
+	margin-top: 1.5%;	
+    margin-bottom: 3%;	
+	font-size: 1.5vw;
+}
+.jumbo .a {
+    margin-bottom: 1%;	
 	font-size: 2.0vw;
 }
+
+/* -----SECCION DEL DASTBOARD ----- */
+/* .dastboard {
+	font-family: 'Roboto', sans-serif;
+	margin-top: 1.5%;
+    margin-bottom: 4%;	
+	border: none;
+	background: #F3F3F3;
+	color: #666666;	
+    width: 96.6667%;	
+} */
+
+
+/* --- CONTACTO --- */
+.contacto {
+	padding: 40px 0;
+	border-top: 1px solid #cbcbcb;
+	border-bottom: 1px solid #cbcbcb;
+	margin-bottom: 40px;
+}
+
+.contacto .titulo {
+	color: #003855;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 40px;
+	margin-bottom: 40px;
+	text-align: center;
+}
+
+.contacto .form-group {
+	margin-bottom: 0;
+}
+
+.formulario input[type="text"],
+.formulario input[type="email"],
+.formulario textarea {
+	padding: 15px;
+	border: none;
+	width: 100%;
+	font-family: 'Open Sans', sans-serif;
+	margin-bottom: 30px;
+}
+
+.formulario textarea {
+	height: 150px;
+	min-height: 150px;
+	max-height: 250px;
+}
+
+.formulario .boton {
+	background: #3da5e2;
+	border: none;
+	padding: 7px 30px;
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+	cursor: pointer;
+	width: auto;
+	border-radius: 3px;
+}
+
+.formulario .boton:hover {
+	background: #1BA0EF;
+}
+
+footer {
+	background: #F3F3F3;
+	margin-bottom : 0;
+}
+footer .main {
+	overflow: hidden;
+	background: #000000;
+	margin: 0;
+	margin-bottom : 0;
+}
+/* --- LOGO --- */
+footer .logo #consulta,
+footer .logo #mobil,
+footer .logo #mobil span {
+	cursor: pointer;	
+	padding-right: 20px;
+}
+footer .logo #consulta{
+	margin-left: 15px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 25px;
+    color: #FFFFFF;
+}
+footer .logo #mobil{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #005DAA;
+	font-size: 40px;
+}
+footer .logo #mobil span{
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 40px;
+    color:red;
+}
+
 /* .header-text h2 span {
 	padding: 10px;
 }

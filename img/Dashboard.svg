@@ -1,0 +1,603 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1125" viewBox="0 0 1920 1125">
+  <defs>
+    <style>
+      .cls-1, .cls-12, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-2, .cls-20, .cls-25 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-4, .cls-5 {
+        stroke: #00b5ef;
+      }
+
+      .cls-3, .cls-7 {
+        fill: #4b4b4b;
+      }
+
+      .cls-3, .cls-6 {
+        font-size: 15px;
+      }
+
+      .cls-29, .cls-3, .cls-32 {
+        font-family: SegoeUI-Light, Segoe UI;
+        font-weight: 300;
+      }
+
+      .cls-33, .cls-4, .cls-43, .cls-46, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        fill: #666;
+      }
+
+      .cls-10, .cls-12, .cls-16, .cls-17, .cls-18, .cls-19, .cls-21, .cls-26, .cls-34, .cls-36, .cls-40, .cls-41, .cls-42, .cls-44, .cls-6, .cls-7, .cls-8, .cls-9 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-12, .cls-21, .cls-22, .cls-27, .cls-30, .cls-31, .cls-39, .cls-42, .cls-44, .cls-7 {
+        font-size: 20px;
+      }
+
+      .cls-10, .cls-21, .cls-22, .cls-29, .cls-32, .cls-36, .cls-37, .cls-8, .cls-9 {
+        fill: #00b5ef;
+      }
+
+      .cls-16, .cls-26, .cls-28, .cls-29, .cls-32, .cls-8 {
+        font-size: 17px;
+      }
+
+      .cls-13, .cls-9 {
+        font-size: 25px;
+      }
+
+      .cls-10, .cls-18 {
+        font-size: 24px;
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-14 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-15 {
+        opacity: 0.144;
+      }
+
+      .cls-17 {
+        font-size: 36px;
+      }
+
+      .cls-17, .cls-19, .cls-41 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-19 {
+        font-size: 30px;
+      }
+
+      .cls-20 {
+        font-size: 40px;
+      }
+
+      .cls-20, .cls-27, .cls-30, .cls-35 {
+        font-family: FontAwesome5Free-Solid, "Font Awesome 5 Free";
+      }
+
+      .cls-21 {
+        letter-spacing: 0.03em;
+      }
+
+      .cls-22, .cls-28, .cls-37, .cls-39 {
+        font-family: FontAwesome5Free-Regular, "Font Awesome 5 Free";
+      }
+
+      .cls-23 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-24 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-25 {
+        stroke: #666;
+      }
+
+      .cls-28, .cls-30, .cls-35, .cls-39 {
+        fill: #707070;
+      }
+
+      .cls-29, .cls-31 {
+        letter-spacing: 0.06em;
+      }
+
+      .cls-31 {
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-32, .cls-40 {
+        letter-spacing: 0.02em;
+      }
+
+      .cls-33 {
+        stroke: #707070;
+        stroke-width: 0.5px;
+      }
+
+      .cls-34, .cls-35, .cls-36, .cls-37, .cls-40, .cls-41 {
+        font-size: 18px;
+      }
+
+      .cls-34 {
+        letter-spacing: 0.05em;
+      }
+
+      .cls-36 {
+        letter-spacing: 0.044em;
+      }
+
+      .cls-38 {
+        fill: #ccccbf;
+      }
+
+      .cls-42, .cls-44 {
+        letter-spacing: 0.08em;
+      }
+
+      .cls-43 {
+        stroke: #ff9016;
+        stroke-width: 5px;
+      }
+
+      .cls-44 {
+        fill: #ff9016;
+      }
+
+      .cls-45 {
+        stroke: none;
+      }
+
+      .cls-47 {
+        filter: url(#Box_Filtros_aplicados);
+      }
+
+      .cls-48 {
+        filter: url(#Box_Filtros_disponibles);
+      }
+
+      .cls-49 {
+        filter: url(#Rectángulo_7);
+      }
+    </style>
+    <filter id="Rectángulo_7" x="447" y="560.632" width="1412" height="513.368" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#9dceff" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" y1="0.473" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00b5ef"/>
+      <stop offset="0.138" stop-color="#18aaf0"/>
+      <stop offset="1" stop-color="#ab64f4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.023" y1="0.44" x2="1" y2="0.443" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#feb683"/>
+      <stop offset="1" stop-color="#ff8993"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6aa5e3"/>
+      <stop offset="1" stop-color="#6866e9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" y1="0.473" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c694f9"/>
+      <stop offset="1" stop-color="#ab64f4"/>
+    </linearGradient>
+    <filter id="Box_Filtros_disponibles" x="42" y="302" width="328.5" height="802" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Box_Filtros_aplicados" x="42" y="18" width="328" height="269.79" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_1" data-name="Grupo 1" transform="translate(0 -1080)">
+    <rect id="Area_de_filtros" data-name="Area de filtros" class="cls-1" width="1920" height="1125" transform="translate(0 1080)"/>
+    <g id="Reporte_del_Dashboard" data-name="Reporte del Dashboard" transform="translate(-12 53.632)">
+      <g class="cls-49" transform="matrix(1, 0, 0, 1, 12, 1026.37)">
+        <g id="Rectángulo_7-2" data-name="Rectángulo 7" class="cls-2" transform="translate(456 566.63)">
+          <rect class="cls-45" width="1394" height="495.368" rx="10"/>
+          <rect class="cls-46" x="0.5" y="0.5" width="1393" height="494.368" rx="9.5"/>
+        </g>
+      </g>
+      <text id="_7_168_250.00" data-name="7&apos;168,250.00" class="cls-3" transform="translate(1712.127 2070.368)"><tspan x="0" y="0">7&apos;168,250.00</tspan></text>
+      <line id="Línea_1" data-name="Línea 1" class="cls-4" x2="109" transform="translate(1688.5 2048.868)"/>
+      <g id="Mobil_super" data-name="Mobil super">
+        <text id="_323_400.00" data-name="323,400.00" class="cls-3" transform="translate(1723.127 2039.368)"><tspan x="0" y="0">323,400.00</tspan></text>
+        <text id="_1_020_180.00" data-name="1&apos;020,180.00" class="cls-3" transform="translate(1712.127 2020.368)"><tspan x="0" y="0">1&apos;020,180.00</tspan></text>
+        <text id="_593_750.00" data-name="593,750.00" class="cls-3" transform="translate(1723.127 2001.368)"><tspan x="0" y="0">593,750.00</tspan></text>
+        <text id="_652_750.00" data-name="652,750.00" class="cls-3" transform="translate(1723.127 1983.368)"><tspan x="0" y="0">652,750.00</tspan></text>
+        <text id="_1_081_700.00" data-name="1&apos;081,700.00" class="cls-3" transform="translate(1712.127 1964.368)"><tspan x="0" y="0">1&apos;081,700.00</tspan></text>
+        <text id="_387_920.00" data-name="387,920.00" class="cls-3" transform="translate(1723.127 1946.368)"><tspan x="0" y="0">387,920.00</tspan></text>
+        <text id="_5_000.00" data-name="5,000.00" class="cls-3" transform="translate(1740.127 1927.368)"><tspan x="0" y="0">5,000.00</tspan></text>
+        <text id="_169_460.00" data-name="169,460.00" class="cls-3" transform="translate(1723.127 1909.368)"><tspan x="0" y="0">169,460.00</tspan></text>
+        <text id="_238_500.00" data-name="238,500.00" class="cls-3" transform="translate(1723.127 1890.368)"><tspan x="0" y="0">238,500.00</tspan></text>
+        <text id="_294.00" data-name="294.00" class="cls-3" transform="translate(1495.127 2038.368)"><tspan x="0" y="0">294.00</tspan></text>
+        <text id="_294.00-2" data-name="294.00" class="cls-3" transform="translate(1495.127 2020.368)"><tspan x="0" y="0">294.00</tspan></text>
+        <text id="_475.00" data-name="475.00" class="cls-3" transform="translate(1495.127 2001.368)"><tspan x="0" y="0">475.00</tspan></text>
+        <text id="_373.00" data-name="373.00" class="cls-3" transform="translate(1495.127 1983.368)"><tspan x="0" y="0">373.00</tspan></text>
+        <text id="_373.00-2" data-name="373.00" class="cls-3" transform="translate(1495.127 1964.368)"><tspan x="0" y="0">373.00</tspan></text>
+        <text id="_373.00-3" data-name="373.00" class="cls-3" transform="translate(1495.127 1946.368)"><tspan x="0" y="0">373.00</tspan></text>
+        <text id="_125.00" data-name="125.00" class="cls-3" transform="translate(1495.127 1927.368)"><tspan x="0" y="0">125.00</tspan></text>
+        <text id="_229.00" data-name="229.00" class="cls-3" transform="translate(1495.127 1909.368)"><tspan x="0" y="0">229.00</tspan></text>
+        <text id="_265.00" data-name="265.00" class="cls-3" transform="translate(1495.127 1890.368)"><tspan x="0" y="0">265.00</tspan></text>
+        <text id="_1_100_Cajas" data-name="1,100 Cajas" class="cls-3" transform="translate(1195.932 2039.368)"><tspan x="0" y="0">1,100 Cajas</tspan></text>
+        <text id="_3_470_Cajas" data-name="3,470 Cajas" class="cls-3" transform="translate(1195.932 2020.368)"><tspan x="0" y="0">3,470 Cajas</tspan></text>
+        <text id="_1_250_Cajas" data-name="1,250 Cajas" class="cls-3" transform="translate(1195.932 2002.368)"><tspan x="0" y="0">1,250 Cajas</tspan></text>
+        <text id="_1_750_Cajas" data-name="1,750 Cajas" class="cls-3" transform="translate(1195.932 1983.368)"><tspan x="0" y="0">1,750 Cajas</tspan></text>
+        <text id="_2_900_Cajas" data-name="2,900 Cajas" class="cls-3" transform="translate(1195.932 1965.368)"><tspan x="0" y="0">2,900 Cajas</tspan></text>
+        <text id="_1_040_Cajas" data-name="1,040 Cajas" class="cls-3" transform="translate(1195.932 1946.368)"><tspan x="0" y="0">1,040 Cajas</tspan></text>
+        <text id="_40_Cajas" data-name="  40 Cajas" class="cls-3" transform="translate(1206.107 1927.368)"><tspan x="0" y="0" xml:space="preserve">  40 Cajas</tspan></text>
+        <text id="_740_Cajas" data-name="740 Cajas" class="cls-3" transform="translate(1205.944 1909.368)"><tspan x="0" y="0">740 Cajas</tspan></text>
+        <text id="_900_Cajas" data-name="900 Cajas" class="cls-3" transform="translate(1205.944 1890.368)"><tspan x="0" y="0">900 Cajas</tspan></text>
+        <text id="MOBIL_SUPER_1000_10W30_SN_12_X_1Q" data-name="MOBIL SUPER 1000 10W30 SN 12 X 1Q" class="cls-3" transform="translate(782 2038.368)"><tspan x="0" y="0">MOBIL SUPER 1000 10W30 SN 12 X 1Q</tspan></text>
+        <text id="MOBIL_SUPER_1000_20W50_SN_12_X_1Q" data-name="MOBIL SUPER 1000 20W50 SN 12 X 1Q" class="cls-3" transform="translate(782 2020.368)"><tspan x="0" y="0">MOBIL SUPER 1000 20W50 SN 12 X 1Q</tspan></text>
+        <text id="MOBIL_SUPER_2000_5W30_4_X_1_GL." data-name="MOBIL SUPER 2000 5W30 4 X 1 GL." class="cls-3" transform="translate(782 2001.368)"><tspan x="0" y="0">MOBIL SUPER 2000 5W30 4 X 1 GL.</tspan></text>
+        <text id="MOBIL_SUPER_2000_5W30_12_X_1Q" data-name="MOBIL SUPER 2000 5W30 12 X 1Q" class="cls-3" transform="translate(782 1983.368)"><tspan x="0" y="0">MOBIL SUPER 2000 5W30 12 X 1Q</tspan></text>
+        <text id="MOBIL_SUPER_1000_20W50_SN_4_X_1_GL." data-name="MOBIL SUPER 1000 20W50 SN 4 X 1 GL." class="cls-3" transform="translate(782 1964.368)"><tspan x="0" y="0">MOBIL SUPER 1000 20W50 SN 4 X 1 GL.</tspan></text>
+        <text id="MOBIL_SUPER_1000_10W30_SN_4_X_1_GL." data-name="MOBIL SUPER 1000 10W30 SN 4 X 1 GL." class="cls-3" transform="translate(782 1946.368)"><tspan x="0" y="0">MOBIL SUPER 1000 10W30 SN 4 X 1 GL.</tspan></text>
+        <text id="MOBIL_SUPER_2T_SCHT_40_X_0.20L" data-name="MOBIL SUPER 2T, SCHT 40 X 0.20L" class="cls-3" transform="translate(782 1927.368)"><tspan x="0" y="0">MOBIL SUPER 2T, SCHT 40 X 0.20L</tspan></text>
+        <text id="MOBIL_SUPER_M_4T_25W50_12_X_1Q" data-name="MOBIL SUPER M 4T 25W50 12 X 1Q" class="cls-3" transform="translate(782 1909.368)"><tspan x="0" y="0">MOBIL SUPER M 4T 25W50 12 X 1Q</tspan></text>
+        <text id="MOBIL_SUPER_M_4T_20W50_12_X_1Q_GF5" data-name="MOBIL SUPER M 4T 20W50 12 X 1Q GF5" class="cls-3" transform="translate(782 1890.368)"><tspan x="0" y="0">MOBIL SUPER M 4T 20W50 12 X 1Q GF5</tspan></text>
+      </g>
+      <path id="Trazado_3" data-name="Trazado 3" class="cls-5" d="M0,0H1271" transform="translate(533.5 1869.923)"/>
+      <g id="Mobil_1" data-name="Mobil 1">
+        <text id="_767_000.00" data-name="767,000.00" class="cls-3" transform="translate(1723.127 1857.368)"><tspan x="0" y="0">767,000.00</tspan></text>
+        <text id="_22_050.00" data-name="22,050.00" class="cls-3" transform="translate(1731.127 1839.368)"><tspan x="0" y="0">22,050.00</tspan></text>
+        <text id="_10_150.00" data-name="10,150.00" class="cls-3" transform="translate(1731.127 1820.368)"><tspan x="0" y="0">10,150.00</tspan></text>
+        <text id="_11_760.00" data-name="11,760.00" class="cls-3" transform="translate(1731.127 1801.368)"><tspan x="0" y="0">11,760.00</tspan></text>
+        <text id="_1_866_900.00" data-name="1&apos;866,900.00" class="cls-3" transform="translate(1712.127 1783.368)"><tspan x="0" y="0">1&apos;866,900.00</tspan></text>
+        <text id="_17_730.00" data-name="17,730.00" class="cls-3" transform="translate(1731.127 1765.368)"><tspan x="0" y="0">17,730.00</tspan></text>
+        <text id="_295.00" data-name="295.00" class="cls-3" transform="translate(1495.127 1855.368)"><tspan x="0" y="0">295.00</tspan></text>
+        <text id="_294.00-3" data-name="294.00" class="cls-3" transform="translate(1495.127 1837.368)"><tspan x="0" y="0">294.00</tspan></text>
+        <text id="_290.00" data-name="290.00" class="cls-3" transform="translate(1495.127 1819.368)"><tspan x="0" y="0">290.00</tspan></text>
+        <text id="_294.00-4" data-name="294.00" class="cls-3" transform="translate(1495.127 1801.368)"><tspan x="0" y="0">294.00</tspan></text>
+        <text id="_294.00-5" data-name="294.00" class="cls-3" transform="translate(1495.127 1783.368)"><tspan x="0" y="0">294.00</tspan></text>
+        <text id="_591.00" data-name="591.00" class="cls-3" transform="translate(1495.127 1765.368)"><tspan x="0" y="0">591.00</tspan></text>
+        <text id="_2_600_Cajas" data-name="2,600 Cajas" class="cls-3" transform="translate(1195.202 1855.368)"><tspan x="0" y="0">2,600 Cajas</tspan></text>
+        <text id="_75_Cajas" data-name="  75 Cajas" class="cls-3" transform="translate(1206.107 1837.368)"><tspan x="0" y="0" xml:space="preserve">  75 Cajas</tspan></text>
+        <text id="_35_Cajas" data-name="  35 Cajas" class="cls-3" transform="translate(1206.107 1819.368)"><tspan x="0" y="0" xml:space="preserve">  35 Cajas</tspan></text>
+        <text id="_40_Cajas-2" data-name="  40 Cajas" class="cls-3" transform="translate(1206.107 1801.368)"><tspan x="0" y="0" xml:space="preserve">  40 Cajas</tspan></text>
+        <text id="_6_350_Cajas" data-name="6,350 Cajas" class="cls-3" transform="translate(1195.202 1782.368)"><tspan x="0" y="0">6,350 Cajas</tspan></text>
+        <text id="_30_Cajas" data-name="  30 Cajas" class="cls-3" transform="translate(1206.107 1765.368)"><tspan x="0" y="0" xml:space="preserve">  30 Cajas</tspan></text>
+        <text id="MOBIL_1_5W30_CASE_6_X_0.95L_0.25_USG" data-name="MOBIL 1 5W30 CASE 6 X 0.95L / 0.25 USG" class="cls-3" transform="translate(782 1855.368)"><tspan x="0" y="0">MOBIL 1 5W30 CASE 6 X 0.95L / 0.25 USG</tspan></text>
+        <text id="MOBIL_1_5W20_6_X_0.95L_0.25_USG" data-name="MOBIL 1 5W20 6 X 0.95L / 0.25 USG" class="cls-3" transform="translate(782 1837.368)"><tspan x="0" y="0">MOBIL 1 5W20 6 X 0.95L / 0.25 USG</tspan></text>
+        <text id="MOBIL_1_RACING_4T_10W40_6_X_1Q" data-name="MOBIL 1 RACING 4T 10W40 6 X 1Q" class="cls-3" transform="translate(782 1819.368)"><tspan x="0" y="0">MOBIL 1 RACING 4T 10W40 6 X 1Q</tspan></text>
+        <text id="MOBIL_1_5W50_6_X_1Q" data-name="MOBIL 1 5W50 6 X 1Q" class="cls-3" transform="translate(782 1801.368)"><tspan x="0" y="0">MOBIL 1 5W50 6 X 1Q</tspan></text>
+        <text id="MOBIL_1_0W40_6_X_1Q" data-name="MOBIL 1 0W40 6 X 1Q" class="cls-3" transform="translate(782 1783.368)"><tspan x="0" y="0">MOBIL 1 0W40 6 X 1Q</tspan></text>
+        <text id="MOBIL_1_ESP_FORM_5W30_12_X_1Q" data-name="MOBIL 1 ESP FORM 5W30 12 X 1Q" class="cls-3" transform="translate(782 1765.368)"><tspan x="0" y="0">MOBIL 1 ESP FORM 5W30 12 X 1Q</tspan></text>
+      </g>
+      <g id="Forma_de_pago" data-name="Forma de pago">
+        <text id="_7_Crédito_45_días" data-name="  7%   Crédito 45 días" class="cls-6" transform="translate(533.127 1858.368)"><tspan x="0" y="0" xml:space="preserve">  7%   Crédito 45 días</tspan></text>
+        <text id="_1_Crédito_40_días" data-name="  1%   Crédito 40 días" class="cls-6" transform="translate(533.127 1839.368)"><tspan x="0" y="0" xml:space="preserve">  1%   Crédito 40 días</tspan></text>
+        <text id="_18_Crédito_30_días" data-name="18%   Crédito 30 días" class="cls-6" transform="translate(533.127 1820.368)"><tspan x="0" y="0" xml:space="preserve">18%   Crédito 30 días</tspan></text>
+        <text id="_74_Contado" data-name="74%   Contado" class="cls-6" transform="translate(533.127 1802.368)"><tspan x="0" y="0" xml:space="preserve">74%   Contado</tspan></text>
+      </g>
+      <text id="Motores_a_Gasolina" data-name="Motores a Gasolina" class="cls-7" transform="translate(533 1767.423)"><tspan x="0" y="0">Motores a Gasolina</tspan></text>
+      <g id="Cabecera_Dashboard" data-name="Cabecera Dashboard">
+        <path id="Trazado_2" data-name="Trazado 2" class="cls-5" d="M0,0H1271" transform="translate(533.5 1732.462)"/>
+        <text id="Venta_promedio_anual" data-name="Venta promedio anual" class="cls-8" transform="translate(1638.5 1721.612)"><tspan x="0" y="0">Venta promedio anual</tspan></text>
+        <text id="P._Unitario_Promedio" data-name="P. Unitario Promedio" class="cls-8" transform="translate(1439.5 1721.612)"><tspan x="0" y="0">P. Unitario Promedio</tspan></text>
+        <text id="Compra_promedio_anual" data-name="Compra promedio anual" class="cls-8" transform="translate(1151.083 1721.612)"><tspan x="0" y="0">Compra promedio anual</tspan></text>
+        <text id="Línea_de_producto" data-name="Línea de producto" class="cls-8" transform="translate(781.601 1721.612)"><tspan x="0" y="0">Línea de producto</tspan></text>
+        <text id="Especialidad" class="cls-8" transform="translate(533 1721.612)"><tspan x="0" y="0">Especialidad</tspan></text>
+        <text id="Motores_a_Gasolina-2" data-name="Motores a Gasolina" class="cls-8" transform="translate(1220 1653.368)"><tspan x="0" y="0">Motores a Gasolina</tspan></text>
+        <text id="Especialidad:" class="cls-8" transform="translate(1101 1653.368)"><tspan x="0" y="0">Especialidad:</tspan></text>
+        <text id="Clientes_Retail_Dpto._de_Arequipa" data-name="Clientes Retail Dpto. de Arequipa" class="cls-9" transform="translate(1052 1603.368)"><tspan x="0" y="27">Clientes Retail Dpto. de Arequipa</tspan></text>
+        <text id="Resumen_de_Información:_" data-name="Resumen de Información: " class="cls-10" transform="translate(533 1629)"><tspan x="0" y="0">Resumen de Información: </tspan></text>
+      </g>
+    </g>
+    <g id="Cuadro_resumen_costo_información" data-name="Cuadro resumen costo información">
+      <rect id="Rectángulo_11" data-name="Rectángulo 11" class="cls-11" width="1393.694" height="78.125" rx="13" transform="translate(456 1547)"/>
+      <text id="_14_708_Operaciones_x_S_0.12_S_1_764.96_Inc._IGV" data-name="14,708 Operaciones x S/ 0.12
+S/ 1,764.96 Inc. IGV" class="cls-12" transform="translate(1397 1557)"><tspan x="97.539" y="22">14,708 Operaciones x S/ 0.12</tspan><tspan class="cls-13"><tspan x="119.061" y="52">S/ 1,764.96 Inc. IGV</tspan></tspan></text>
+      <text id="_45_608_Operaciones_x_S_0.05_S_2_280.40_Inc._IGV" data-name="45,608 Operaciones x S/ 0.05 
+S/ 2,280.40 Inc. IGV" class="cls-12" transform="translate(928 1557)"><tspan x="97.539" y="22">45,608 Operaciones x S/ 0.05 </tspan><tspan class="cls-13"><tspan x="119.061" y="52">S/ 2,280.40 Inc. IGV</tspan></tspan></text>
+      <text id="_1_508_Registros_x_S_0.90_S_1_357.20_Inc._IGV" data-name="1,508 Registros x S/ 0.90 
+S/ 1,357.20 Inc. IGV" class="cls-12" transform="translate(456 1557)"><tspan x="117.734" y="22">1,508 Registros x S/ 0.90 </tspan><tspan class="cls-13"><tspan x="119.061" y="52">S/ 1,357.20 Inc. IGV</tspan></tspan></text>
+    </g>
+    <g id="Cuadro_detalle_de_forma_de_pago" data-name="Cuadro detalle de forma de pago" transform="translate(0 -42)">
+      <rect id="Rectángulo_6" data-name="Rectángulo 6" class="cls-14" width="450.694" height="320.125" rx="13" transform="translate(1399 1252)"/>
+      <circle id="Elipse_4" data-name="Elipse 4" class="cls-15" cx="105" cy="105" r="105" transform="translate(1654 1412)"/>
+      <circle id="Elipse_5" data-name="Elipse 5" class="cls-15" cx="105" cy="105" r="105" transform="translate(1701 1267)"/>
+      <text id="Contenido_de_información" data-name="Contenido de información" class="cls-16" transform="translate(1521 1556)"><tspan x="0" y="0">Precio unitario por registro</tspan></text>
+      <text id="Contenido_de_información-2" data-name="Contenido de información" class="cls-16" transform="translate(1427 1536)"><tspan x="0" y="0">y detalle de pagos realizados según filtros aplicados</tspan></text>
+      <text id="Contenido_de_información-3" data-name="Contenido de información" class="cls-16" transform="translate(1443 1516)"><tspan x="0" y="0">Incluye información de identificación de clientes</tspan></text>
+      <text id="P._Unitario_S_0.12" data-name="P. Unitario S/ 0.12" class="cls-17" transform="translate(1466 1460)"><tspan x="0" y="0">P. Unitario S/ 0.12</tspan></text>
+      <text id="_3_415" data-name="3,415" class="cls-18" transform="translate(1754 1408)"><tspan x="0" y="0">3,415</tspan></text>
+      <text id="Crédito" class="cls-19" transform="translate(1737 1377)"><tspan x="0" y="0">Crédito</tspan></text>
+      <text id="_11_243" data-name="11,243" class="cls-18" transform="translate(1572 1408)"><tspan x="0" y="0">11,243</tspan></text>
+      <text id="Contado" class="cls-19" transform="translate(1553 1377)"><tspan x="0" y="0">Contado</tspan></text>
+      <text id="_14_708" data-name="14,708" class="cls-18" transform="translate(1410 1408)"><tspan x="0" y="0">14,708</tspan></text>
+      <text id="Total" class="cls-19" transform="translate(1415 1377)"><tspan x="0" y="0">Total</tspan></text>
+      <text id="Clientes_que_compran_Lubricantes_Mobil" data-name="Clientes que compran Lubricantes Mobil" class="cls-12" transform="translate(1474 1304)"><tspan x="0" y="0">Clientes que compran Lubricantes Mobil</tspan></text>
+      <text id="Icono_de_Pagos" data-name="Icono de Pagos" class="cls-20" transform="translate(1417 1304)"><tspan x="0" y="0"></tspan></text>
+      <text id="INCLUYE_DETALLE_DE_PAGOS" data-name="INCLUYE DETALLE DE PAGOS" class="cls-21" transform="translate(1568 1234)"><tspan x="-133.922" y="0">INCLUYE DETALLE DE PAGOS</tspan></text>
+      <text id="Icono_incluye_detalle_de_pagos" data-name="Icono incluye detalle de pagos" class="cls-22" transform="translate(1399 1215)"><tspan x="3.25" y="18"></tspan></text>
+    </g>
+    <g id="Cuadro_detalle_de_compras" data-name="Cuadro detalle de compras" transform="translate(0 -42)">
+      <rect id="Rectángulo_5" data-name="Rectángulo 5" class="cls-23" width="450.694" height="320.125" rx="13" transform="translate(929 1252)"/>
+      <circle id="Elipse_4-2" data-name="Elipse 4" class="cls-15" cx="105" cy="105" r="105" transform="translate(1206 1412)"/>
+      <circle id="Elipse_5-2" data-name="Elipse 5" class="cls-15" cx="105" cy="105" r="105" transform="translate(1253 1267)"/>
+      <text id="Contenido_de_información-4" data-name="Contenido de información" class="cls-16" transform="translate(1054 1556)"><tspan x="0" y="0">Precio unitario por registro</tspan></text>
+      <text id="Contenido_de_información-5" data-name="Contenido de información" class="cls-16" transform="translate(938 1536)"><tspan x="0" y="0">y detalle de compras por producto según filtros aplicados</tspan></text>
+      <text id="Contenido_de_información-6" data-name="Contenido de información" class="cls-16" transform="translate(973 1516)"><tspan x="0" y="0">Incluye información de identificación de clientes</tspan></text>
+      <text id="P._Unitario_S_0.05" data-name="P. Unitario S/ 0.05" class="cls-17" transform="translate(1002 1464)"><tspan x="0" y="0">P. Unitario S/ 0.05</tspan></text>
+      <text id="_45_608" data-name="45,608" class="cls-18" transform="translate(1274 1408)"><tspan x="0" y="0">45,608</tspan></text>
+      <text id="Línea_de_producto-2" data-name="Línea de
+producto" class="cls-19" transform="translate(1310 1346)"><tspan x="-56.494" y="0">Línea de</tspan><tspan x="-61.995" y="30">producto</tspan></text>
+      <text id="_50_968" data-name="50,968" class="cls-18" transform="translate(1111 1409)"><tspan x="0" y="0">50,968</tspan></text>
+      <text id="Especialidad-2" data-name="Especialidad" class="cls-19" transform="translate(1045 1361)"><tspan x="0" y="0">Especialidad</tspan></text>
+      <text id="_53_345" data-name="53,345" class="cls-18" transform="translate(947 1407)"><tspan x="0" y="0">53,345</tspan></text>
+      <text id="Total-2" data-name="Total" class="cls-19" transform="translate(945 1361)"><tspan x="0" y="0">Total</tspan></text>
+      <text id="Clientes_que_compran_Lubricantes_Mobil-2" data-name="Clientes que compran Lubricantes Mobil" class="cls-12" transform="translate(1004 1304)"><tspan x="0" y="0">Clientes que compran Lubricantes Mobil</tspan></text>
+      <text id="Icono_de_productos" data-name="Icono de productos" class="cls-20" transform="translate(938 1306)"><tspan x="0" y="0"></tspan></text>
+      <text id="INCLUYE_DETALLE_DE_COMPRAS" data-name="INCLUYE DETALLE DE COMPRAS" class="cls-21" transform="translate(1114 1234)"><tspan x="-149.424" y="0">INCLUYE DETALLE DE COMPRAS</tspan></text>
+      <text id="Icono_incluye_detalle_compras" data-name="Icono incluye detalle compras" class="cls-22" transform="translate(929 1215)"><tspan x="3.25" y="18"></tspan></text>
+    </g>
+    <g id="Cuadro_Clientes" data-name="Cuadro Clientes" transform="translate(0 -42)">
+      <path id="Trazado_1" data-name="Trazado 1" class="cls-24" d="M13,0H438a13,13,0,0,1,13,13V307a13,13,0,0,1-13,13H13A13,13,0,0,1,0,307V13A13,13,0,0,1,13,0Z" transform="translate(456 1252)"/>
+      <circle id="Elipse_3" data-name="Elipse 3" class="cls-15" cx="105" cy="105" r="105" transform="translate(710 1412)"/>
+      <circle id="Elipse_2" data-name="Elipse 2" class="cls-15" cx="105" cy="105" r="105" transform="translate(757 1267)"/>
+      <text id="Contenido_de_información-7" data-name="Contenido de información" class="cls-16" transform="translate(570 1554)"><tspan x="0" y="0">Precio unitario por registro</tspan></text>
+      <text id="Contenido_de_información-8" data-name="Contenido de información" class="cls-16" transform="translate(509 1533)"><tspan x="0" y="0">y atributos específicos según filtros aplicados</tspan></text>
+      <text id="Contenido_de_información-9" data-name="Contenido de información" class="cls-16" transform="translate(482 1513)"><tspan x="0" y="0">Solo incluye información de identificación de clientes</tspan></text>
+      <text id="P._Unitario_S_0.90" data-name="P. Unitario S/ 0.90" class="cls-17" transform="translate(537 1468)"><tspan x="0" y="0">P. Unitario S/ 0.90</tspan></text>
+      <text id="_1_508" data-name="1,508" class="cls-18" transform="translate(821 1409)"><tspan x="0" y="0">1,508</tspan></text>
+      <text id="Retail" class="cls-19" transform="translate(812 1377)"><tspan x="0" y="0">Retail</tspan></text>
+      <text id="_3_027" data-name="3,027" class="cls-18" transform="translate(641 1409)"><tspan x="0" y="0">3,027</tspan></text>
+      <text id="Arequipa" class="cls-19" transform="translate(610 1377)"><tspan x="0" y="0">Arequipa</tspan></text>
+      <text id="_19_686" data-name="19,686" class="cls-18" transform="translate(473 1409)"><tspan x="0" y="0">19,686</tspan></text>
+      <text id="Total-3" data-name="Total" class="cls-19" transform="translate(475 1377)"><tspan x="0" y="0">Total</tspan></text>
+      <text id="Clientes_que_compran_Lubricantes_Mobil-3" data-name="Clientes que compran Lubricantes Mobil" class="cls-12" transform="translate(532 1303)"><tspan x="0" y="0">Clientes que compran Lubricantes Mobil</tspan></text>
+      <text id="Icono_Clientes" data-name="Icono Clientes" class="cls-20" transform="translate(468 1303)"><tspan x="0" y="0"></tspan></text>
+    </g>
+    <g id="Filtros_Disponible" data-name="Filtros Disponible" transform="translate(-1 81)">
+      <g class="cls-48" transform="matrix(1, 0, 0, 1, 1, 999)">
+        <g id="Box_Filtros_disponibles-2" data-name="Box Filtros disponibles" class="cls-25" transform="translate(42 302)">
+          <rect class="cls-45" width="328.5" height="796" rx="9"/>
+          <rect class="cls-46" x="0.5" y="0.5" width="327.5" height="795" rx="8.5"/>
+        </g>
+      </g>
+      <g id="Ver_más" data-name="Ver más" transform="translate(12 -33)">
+        <text id="Ver_más-2" data-name="Ver más" class="cls-26" transform="translate(119 2120)"><tspan x="-29.721" y="0">Ver más</tspan></text>
+      </g>
+      <g id="Icono_más" data-name="Icono más" transform="translate(13 -102)">
+        <text id="Icono_ver_más_detalle" data-name="Icono ver más detalle" class="cls-27" transform="translate(52 2173)"><tspan x="7.25" y="18"></tspan></text>
+      </g>
+      <g id="Sin_Check" data-name="Sin Check" transform="translate(8 527)">
+        <text id="_" data-name="" class="cls-28" transform="translate(61 1516)"><tspan x="3.563" y="15"></tspan></text>
+      </g>
+      <g id="Con_Check" data-name="Con Check" transform="translate(-72 451)">
+        <text id="Con_Chek" data-name="Con Chek" class="cls-28" transform="translate(143 1570)"><tspan x="2.063" y="15"></tspan></text>
+      </g>
+      <g id="Con_Check-2" data-name="Con Check" transform="translate(-72 429)">
+        <text id="Con_Chek-2" data-name="Con Chek" class="cls-28" transform="translate(143 1570)"><tspan x="2.063" y="15"></tspan></text>
+      </g>
+      <g id="Con_Check-3" data-name="Con Check" transform="translate(-72 406)">
+        <text id="Con_Chek-3" data-name="Con Chek" class="cls-28" transform="translate(143 1570)"><tspan x="2.063" y="15"></tspan></text>
+      </g>
+      <g id="Con_Check-4" data-name="Con Check" transform="translate(-72 384)">
+        <text id="Con_Chek-4" data-name="Con Chek" class="cls-28" transform="translate(143 1570)"><tspan x="2.063" y="15"></tspan></text>
+      </g>
+      <g id="Con_Check-5" data-name="Con Check" transform="translate(-72 360)">
+        <text id="Con_Chek-5" data-name="Con Chek" class="cls-28" transform="translate(143 1570)"><tspan x="2.063" y="15"></tspan></text>
+      </g>
+      <text id="Mobil_1_Mobil_Super_Mobil_Delvac_Mobil_Grease_Mobil_Diesel_Turbo_Mobil_ATF" data-name="Mobil 1
+Mobil Super
+Mobil Delvac
+Mobil Grease
+Mobil Diesel Turbo
+Mobil ATF" class="cls-29" transform="translate(94.148 1948)"><tspan x="0" y="0">Mobil 1</tspan><tspan x="0" y="22">Mobil Super</tspan><tspan x="0" y="44">Mobil Delvac</tspan><tspan x="0" y="66">Mobil Grease</tspan><tspan x="0" y="88">Mobil Diesel Turbo</tspan><tspan x="0" y="110">Mobil ATF</tspan></text>
+      <g id="Icon_filtro_desplegado" data-name="Icon filtro desplegado" transform="translate(-11.5 514)">
+        <text id="Icon_filtro_desplegado-2" data-name="Icon filtro desplegado" class="cls-30" transform="translate(319 1386)"><tspan x="4.27" y="18"></tspan></text>
+      </g>
+      <text id="Familia_de_productos" data-name="Familia de productos" class="cls-31" transform="translate(56 1919)"><tspan x="0" y="0">Línea de producto</tspan></text>
+      <g id="Ver_más-3" data-name="Ver más" transform="translate(12 -228)">
+        <text id="Ver_más-4" data-name="Ver más" class="cls-26" transform="translate(119 2120)"><tspan x="-29.721" y="0">Ver más</tspan></text>
+      </g>
+      <g id="Icono_más-2" data-name="Icono más" transform="translate(12 -297)">
+        <text id="Icono_ver_más_detalle-2" data-name="Icono ver más detalle" class="cls-27" transform="translate(52 2173)"><tspan x="7.25" y="18"></tspan></text>
+      </g>
+      <g id="Sin_Check-2" data-name="Sin Check" transform="translate(8 332)">
+        <text id="_2" data-name="" class="cls-28" transform="translate(61 1516)"><tspan x="3.563" y="15"></tspan></text>
+      </g>
+      <g id="Sin_Check-3" data-name="Sin Check" transform="translate(8 310)">
+        <text id="_3" data-name="" class="cls-28" transform="translate(61 1516)"><tspan x="3.563" y="15"></tspan></text>
+      </g>
+      <g id="Con_Check-6" data-name="Con Check" transform="translate(-72 234)">
+        <text id="Con_Chek-6" data-name="Con Chek" class="cls-28" transform="translate(143 1570)"><tspan x="2.063" y="15"></tspan></text>
+      </g>
+      <g id="Sin_Check-4" data-name="Sin Check" transform="translate(8 265)">
+        <text id="_4" data-name="" class="cls-28" transform="translate(61 1516)"><tspan x="3.563" y="15"></tspan></text>
+      </g>
+      <g id="Con_Check-7" data-name="Con Check" transform="translate(-72 190)">
+        <text id="Con_Chek-7" data-name="Con Chek" class="cls-28" transform="translate(143 1570)"><tspan x="2.063" y="15"></tspan></text>
+      </g>
+      <g id="Con_Check-8" data-name="Con Check" transform="translate(-72 169)">
+        <text id="Con_Chek-8" data-name="Con Chek" class="cls-28" transform="translate(143 1570)"><tspan x="2.063" y="15"></tspan></text>
+      </g>
+      <text id="Motores_a_Gasolina_Motores_Diesel_Transmisiones_Grasas_Sistemas_Hidráulicos_Engranajes" data-name="Motores a Gasolina
+Motores Diesel
+Transmisiones
+Grasas
+Sistemas Hidráulicos
+Engranajes" class="cls-32" transform="translate(94.157 1753)"><tspan x="0" y="0">Motores a Gasolina</tspan><tspan x="0" y="22">Motores Diesel</tspan><tspan x="0" y="44">Transmisiones</tspan><tspan x="0" y="66">Grasas</tspan><tspan x="0" y="88">Sistemas Hidráulicos</tspan><tspan x="0" y="110">Engranajes</tspan></text>
+      <g id="Icon_filtro_desplegado-3" data-name="Icon filtro desplegado" transform="translate(-11.5 321)">
+        <text id="Icon_filtro_desplegado-4" data-name="Icon filtro desplegado" class="cls-30" transform="translate(319 1386)"><tspan x="4.27" y="18"></tspan></text>
+      </g>
+      <text id="Especialidad-3" data-name="Especialidad" class="cls-31" transform="translate(56 1726)"><tspan x="0" y="0">Especialidad</tspan></text>
+      <g id="Sin_Check-5" data-name="Sin Check" transform="translate(8 163)">
+        <text id="_5" data-name="" class="cls-28" transform="translate(61 1516)"><tspan x="3.563" y="15"></tspan></text>
+      </g>
+      <g id="Sin_Check-6" data-name="Sin Check" transform="translate(8 141)">
+        <text id="_6" data-name="" class="cls-28" transform="translate(61 1516)"><tspan x="3.563" y="15"></tspan></text>
+      </g>
+      <g id="Con_Check-9" data-name="Con Check" transform="translate(-72 65)">
+        <text id="Con_Chek-9" data-name="Con Chek" class="cls-28" transform="translate(143 1570)"><tspan x="2.063" y="15"></tspan></text>
+      </g>
+      <text id="Retail_Industria_Automotriz" data-name="Retail
+Industria
+Automotriz" class="cls-29" transform="translate(94.109 1651)"><tspan x="0" y="0">Retail</tspan><tspan x="0" y="22">Industria</tspan><tspan x="0" y="44">Automotriz</tspan></text>
+      <g id="Icon_filtro_desplegado-5" data-name="Icon filtro desplegado" transform="translate(-11.5 219)">
+        <text id="Icon_filtro_desplegado-6" data-name="Icon filtro desplegado" class="cls-30" transform="translate(319 1386)"><tspan x="4.27" y="18"></tspan></text>
+      </g>
+      <text id="Canal_de_distribución" data-name="Canal de distribución" class="cls-31" transform="translate(56 1624)"><tspan x="0" y="0">Canal de distribución</tspan></text>
+      <g id="Separador_filtros" data-name="Separador filtros" transform="translate(0.5 -33.5)">
+        <line id="Separador_filtros-2" data-name="Separador filtros" class="cls-33" x2="276" transform="translate(57.5 1632.5)"/>
+      </g>
+      <g id="Icon_filtro_cerrado" data-name="Icon filtro cerrado" transform="translate(-5.5 -49)">
+        <text id="Icon_filtro_cerrado-2" data-name="Icon filtro cerrado" class="cls-30" transform="translate(321 1618)"><tspan x="9.719" y="18"></tspan></text>
+      </g>
+      <text id="Distrito" class="cls-31" transform="translate(56 1588)"><tspan x="0" y="0">Distrito</tspan></text>
+      <g id="Separador_filtros-3" data-name="Separador filtros" transform="translate(0 -67)">
+        <line id="Separador_filtros-4" data-name="Separador filtros" class="cls-33" x2="276" transform="translate(57.5 1632.5)"/>
+      </g>
+      <g id="Icon_filtro_cerrado-3" data-name="Icon filtro cerrado" transform="translate(-5.5 -82)">
+        <text id="Icon_filtro_cerrado-4" data-name="Icon filtro cerrado" class="cls-30" transform="translate(321 1618)"><tspan x="9.719" y="18"></tspan></text>
+      </g>
+      <text id="Provincia" class="cls-31" transform="translate(57 1555)"><tspan x="0" y="0">Provincia</tspan></text>
+      <g id="Sin_Check-7" data-name="Sin Check" transform="translate(8 -1)">
+        <text id="_7" data-name="" class="cls-28" transform="translate(61 1516)"><tspan x="3.563" y="15"></tspan></text>
+      </g>
+      <g id="Sin_Check-8" data-name="Sin Check" transform="translate(8 -24)">
+        <text id="_8" data-name="" class="cls-28" transform="translate(61 1516)"><tspan x="3.563" y="15"></tspan></text>
+      </g>
+      <g id="Sin_Check-9" data-name="Sin Check" transform="translate(8 -43)">
+        <text id="_9" data-name="" class="cls-28" transform="translate(61 1516)"><tspan x="3.563" y="15"></tspan></text>
+      </g>
+      <g id="Sin_Check-10" data-name="Sin Check" transform="translate(8 -62)">
+        <text id="_10" data-name="" class="cls-28" transform="translate(61 1516)"><tspan x="3.563" y="15"></tspan></text>
+      </g>
+      <g id="Sin_Check-11" data-name="Sin Check" transform="translate(8 -82)">
+        <text id="_11" data-name="" class="cls-28" transform="translate(61 1516)"><tspan x="3.563" y="15"></tspan></text>
+      </g>
+      <g id="Sin_Check-12" data-name="Sin Check" transform="translate(8 -101)">
+        <text id="_12" data-name="" class="cls-28" transform="translate(61 1516)"><tspan x="3.563" y="15"></tspan></text>
+      </g>
+      <g id="Con_Check-10" data-name="Con Check" transform="translate(-72 -177)">
+        <text id="Con_Chek-10" data-name="Con Chek" class="cls-28" transform="translate(143 1570)"><tspan x="2.063" y="15"></tspan></text>
+      </g>
+      <text id="Arequipa_Tacna_Moquegua_Puno_Cusco_Apurímac_Madre_de_Dios" data-name="Arequipa
+Tacna
+Moquegua
+Puno
+Cusco
+Apurímac
+Madre de Dios" class="cls-32" transform="translate(94.118 1409)"><tspan x="0" y="0">Arequipa</tspan><tspan x="0" y="20">Tacna</tspan><tspan x="0" y="40">Moquegua</tspan><tspan x="0" y="60">Puno</tspan><tspan x="0" y="80">Cusco</tspan><tspan x="0" y="100">Apurímac</tspan><tspan x="0" y="120">Madre de Dios</tspan></text>
+      <g id="Icon_filtro_desplegado-7" data-name="Icon filtro desplegado" transform="translate(-1.5 -25)">
+        <text id="Icon_filtro_desplegado-8" data-name="Icon filtro desplegado" class="cls-30" transform="translate(319 1386)"><tspan x="4.27" y="18"></tspan></text>
+      </g>
+      <text id="Estado_Dpto." data-name="Estado / Dpto." class="cls-31" transform="translate(56 1380)"><tspan x="0" y="0">Departamento</tspan></text>
+      <line id="Separador_filtros_aplicados" data-name="Separador filtros aplicados" class="cls-33" x2="328.5" transform="translate(42.5 1353.5)"/>
+      <text id="Filtros_disponibles" data-name="Filtros disponibles" class="cls-34" transform="translate(122 1334.265)"><tspan x="-34.688" y="0">FILTROS</tspan></text>
+      <text id="Icon_Filtro" data-name="Icon Filtro" class="cls-35" transform="translate(51 1317)"><tspan x="3" y="16"></tspan></text>
+    </g>
+    <g id="Filtros_Aplicados" data-name="Filtros Aplicados">
+      <g class="cls-47" transform="matrix(1, 0, 0, 1, 0, 1080)">
+        <g id="Box_Filtros_aplicados-2" data-name="Box Filtros aplicados" class="cls-25" transform="translate(42 18)">
+          <rect class="cls-45" width="328" height="263.79" rx="9"/>
+          <rect class="cls-46" x="0.5" y="0.5" width="327" height="262.79" rx="8.5"/>
+        </g>
+      </g>
+      <text id="Text_Descarga_una_muestra" data-name="Text Descarga una muestra" class="cls-36" transform="translate(89 1347.79)"><tspan x="0" y="0">ELIMINAR FILTROS</tspan></text>
+      <text id="Icon_papelera_reciclaje" data-name="Icon papelera reciclaje" class="cls-37" transform="translate(52 1330.79)"><tspan x="4.125" y="16"></tspan></text>
+      <rect id="Box_Filtro_Mobil_Diesel_Turbo" data-name="Box Filtro Mobil Diesel Turbo" class="cls-38" width="185" height="25" rx="12.5" transform="translate(52 1296.761)"/>
+      <g id="Icon_borrar_filtro" data-name="Icon borrar filtro" transform="translate(-491 51.68)">
+        <text id="Icono_Arequipa" data-name="Icono Arequipa" class="cls-39" transform="translate(699 1247)"><tspan x="6" y="18"></tspan></text>
+      </g>
+      <text id="Mobil_diesel_turbo" data-name="Mobil diesel turbo" class="cls-40" transform="translate(135 1315.292)"><tspan x="-78.4" y="0">Mobil Diesel Turbo</tspan></text>
+      <rect id="Box_Filtro_Mobil_Grease" data-name="Box Filtro Mobil Grease" class="cls-38" width="137" height="25" rx="12.5" transform="translate(195 1267.003)"/>
+      <g id="Icon_borrar_filtro-2" data-name="Icon borrar filtro" transform="translate(-396 21.955)">
+        <text id="Icono_Arequipa-2" data-name="Icono Arequipa" class="cls-39" transform="translate(699 1247)"><tspan x="6" y="18"></tspan></text>
+      </g>
+      <text id="Mobil_Grease" data-name="Mobil Grease" class="cls-40" transform="translate(252 1285.551)"><tspan x="-54.565" y="0">Mobil Grease</tspan></text>
+      <rect id="Box_Filtro_Mobil_Delvac" data-name="Box Filtro Mobil Delvac" class="cls-38" width="137" height="25" rx="12.5" transform="translate(52 1267.003)"/>
+      <g id="Icon_borrar_filtro-3" data-name="Icon borrar filtro" transform="translate(-539 21.955)">
+        <text id="Icono_Arequipa-3" data-name="Icono Arequipa" class="cls-39" transform="translate(699 1247)"><tspan x="6" y="18"></tspan></text>
+      </g>
+      <text id="Mobil_Delvac" data-name="Mobil Delvac" class="cls-40" transform="translate(109 1285.551)"><tspan x="-53.695" y="0">Mobil Delvac</tspan></text>
+      <rect id="Box_Filtro_Mobil_Super" data-name="Box Filtro Mobil Super" class="cls-38" width="131" height="25" rx="12.5" transform="translate(234 1236.815)"/>
+      <g id="Icon_borrar_filtro-4" data-name="Icon borrar filtro" transform="translate(-364 -7.128)">
+        <text id="Icono_Arequipa-4" data-name="Icono Arequipa" class="cls-39" transform="translate(699 1247)"><tspan x="6" y="18"></tspan></text>
+      </g>
+      <text id="Mobil_Super-2" data-name="Mobil Super" class="cls-40" transform="translate(289 1254.422)"><tspan x="-50.272" y="0">Mobil Super</tspan></text>
+      <rect id="Box_Filtro_Mobil_1" data-name="Box Filtro Mobil 1" class="cls-38" width="91" height="25" rx="12.5" transform="translate(140 1236.815)"/>
+      <g id="Icon_borrar_filtro-5" data-name="Icon borrar filtro" transform="translate(-497 -9.128)">
+        <text id="Icono_Arequipa-5" data-name="Icono Arequipa" class="cls-39" transform="translate(699 1247)"><tspan x="6" y="18"></tspan></text>
+      </g>
+      <text id="Mobil_1-2" data-name="Mobil 1" class="cls-40" transform="translate(175 1255.422)"><tspan x="-31.402" y="0">Mobil 1</tspan></text>
+      <rect id="Box_Filtro_Grasas" data-name="Box Filtro Grasas" class="cls-38" width="85" height="25" rx="12.5" transform="translate(52 1236.761)"/>
+      <g id="Icon_borrar_filtro-6" data-name="Icon borrar filtro" transform="translate(-592 -7.32)">
+        <text id="Icono_Arequipa-6" data-name="Icono Arequipa" class="cls-39" transform="translate(699 1247)"><tspan x="6" y="18"></tspan></text>
+      </g>
+      <text id="Grasas" class="cls-40" transform="translate(83 1254.292)"><tspan x="-26.999" y="0">Grasas</tspan></text>
+      <rect id="Box_Filtro_Motores_Diesel" data-name="Box Filtro Motores Diesel" class="cls-38" width="134" height="25" rx="12.5" transform="translate(230 1206.761)"/>
+      <g id="Icon_borrar_filtro-7" data-name="Icon borrar filtro" transform="translate(-364 -37.32)">
+        <text id="Icono_Arequipa-7" data-name="Icono Arequipa" class="cls-39" transform="translate(699 1247)"><tspan x="6" y="18"></tspan></text>
+      </g>
+      <text id="Motores_Diesel" data-name="Motores Diesel" class="cls-40" transform="translate(287 1226.292)"><tspan x="-53.154" y="0">Motor Diesel</tspan></text>
+      <rect id="Box_Filtro_Motores_Gasolina" data-name="Box Filtro Motores Gasolina" class="cls-38" width="176" height="25" rx="12.5" transform="translate(52 1206.761)"/>
+      <g id="Icon_borrar_filtro-8" data-name="Icon borrar filtro" transform="translate(-500 -37.32)">
+        <text id="Icono_Arequipa-8" data-name="Icono Arequipa" class="cls-39" transform="translate(699 1247)"><tspan x="6" y="18"></tspan></text>
+      </g>
+      <text id="Motores_Gasolina" data-name="Motores Gasolina" class="cls-40" transform="translate(130 1225.292)"><tspan x="-72.375" y="0">Motores Gasolina</tspan></text>
+      <rect id="Box_Filtro_Retail" data-name="Box Filtro Retail" class="cls-38" width="85" height="25" rx="12.5" transform="translate(165 1176.708)"/>
+      <g id="Icon_borrar_filtro-9" data-name="Icon borrar filtro" transform="translate(-483 -67.513)">
+        <text id="Icono_Arequipa-9" data-name="Icono Arequipa" class="cls-39" transform="translate(699 1247)"><tspan x="6" y="18"></tspan></text>
+      </g>
+      <text id="Retail-2" data-name="Retail" class="cls-40" transform="translate(193 1194.296)"><tspan x="-22.714" y="0">Retail</tspan></text>
+      <rect id="Box_Filtro_Arequipa" data-name="Box Filtro Arequipa" class="cls-38" width="108" height="25" rx="12.5" transform="translate(52 1176.708)"/>
+      <g id="Icon_borrar_filtro-10" data-name="Icon borrar filtro" transform="translate(-571 -67.513)">
+        <text id="Icono_Arequipa-10" data-name="Icono Arequipa" class="cls-39" transform="translate(699 1247)"><tspan x="6" y="18"></tspan></text>
+      </g>
+      <text id="Arequipa-2" data-name="Arequipa" class="cls-40" transform="translate(93 1194.296)"><tspan x="-37.343" y="0">Arequipa</tspan></text>
+      <rect id="Box_Filtro_Reg._Sur" data-name="Box Filtro Reg. Sur" class="cls-38" width="112" height="25" rx="12.5" transform="translate(247 1147.003)"/>
+      <g id="Icon_borrar_filtro-11" data-name="Icon borrar filtro" transform="translate(-373 -97.665)">
+        <text id="Icono_Arequipa-11" data-name="Icono Arequipa" class="cls-39" transform="translate(699 1247)"><tspan x="6" y="18"></tspan></text>
+      </g>
+      <text id="Reg._Sur" data-name="Reg. Sur" class="cls-40" transform="translate(291 1164.942)"><tspan x="-33.806" y="0">Reg. Sur</tspan></text>
+      <rect id="Box_Filtro_Lubricantes" data-name="Box Filtro Lubricantes" class="cls-38" width="188" height="25" rx="12.5" transform="translate(52 1147.003)"/>
+      <g id="Icon_borrar_filtro-12" data-name="Icon borrar filtro" transform="translate(-491.898 -97.665)">
+        <text id="Icono_Lubricantes" data-name="Icono Lubricantes" class="cls-39" transform="translate(699 1247)"><tspan x="6" y="18"></tspan></text>
+      </g>
+      <text id="Lubricantes_Mobil" data-name="Lubricantes Mobil" class="cls-40" transform="translate(131 1164.942)"><tspan x="-73.685" y="0">Lubricantes Mobil</tspan></text>
+      <line id="Separador_filtros_aplicados-2" data-name="Separador filtros aplicados" class="cls-33" x2="329" transform="translate(41.5 1140.726)"/>
+      <text id="Filtros_aplicados-2" data-name="Filtros aplicados" class="cls-41" transform="translate(172 1128.265)"><tspan x="-82.625" y="0">FILTROS APLICADOS</tspan></text>
+      <text id="Icon_Buscar" data-name="Icon Buscar" class="cls-35" transform="translate(52 1111)"><tspan x="3.018" y="16"></tspan></text>
+    </g>
+    <g id="Main_Filtros" data-name="Main Filtros">
+      <line id="Separador_Main_filtros" data-name="Separador Main filtros" class="cls-33" x2="1393.194" transform="translate(456.5 1150.5)"/>
+      <text id="Main_Filtro_repuestos" data-name="Main Filtro repuestos" class="cls-42" transform="translate(879.745 1125)"><tspan x="0" y="0">REPUESTOS</tspan></text>
+      <text id="Main_Filtro_filtros_aceite" data-name="Main Filtro filtros aceite" class="cls-42" transform="translate(704.642 1125)"><tspan x="0" y="0">FILTROS</tspan></text>
+      <line id="Línea_de_selección" data-name="Línea de selección" class="cls-43" x2="145" transform="translate(456.5 1134.5)"/>
+      <text id="Main_Filtro_lubricantes" data-name="Main Filtro lubricantes" class="cls-44" transform="translate(456 1125)"><tspan x="0" y="0">LUBRICANTES</tspan></text>
+      <line id="Separador_Main_filtros-2" data-name="Separador Main filtros" class="cls-33" x2="1393.194" transform="translate(456.5 1097.5)"/>
+    </g>
+  </g>
+</svg>
