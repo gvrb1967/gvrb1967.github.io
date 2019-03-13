@@ -1,0 +1,366 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+}	
+header {
+	background: #000000;
+	/* margin-bottom : 0;
+	background-size: cover;
+	background-position: center 0;
+	background-repeat: no-repeat; */
+}	
+/* header .contenedor_logo_menu {
+	overflow: hidden;
+	background: #000000;
+	margin: 0;
+	margin-bottom : 0;
+} */
+
+/* --- LOGO --- */
+/* header .container .contenedor_logo_menu .logo #consulta,
+header .container .contenedor_logo_menu .logo #mobil,
+header .container .contenedor_logo_menu .logo #mobil span {
+	cursor: pointer;	
+}
+header .container .contenedor_logo_menu .logo #consulta{
+	margin-left: 15px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 25px;
+    color: #FFFFFF;
+	padding-right: 20px;
+}
+header .container .contenedor_logo_menu .logo #mobil{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #005DAA;
+	font-size: 40px;
+}
+header .container .contenedor_logo_menu .logo #mobil span{
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 40px;
+    color:red;
+} */
+
+/* --- BUSCAR --- */
+/* header .buscar form input[type="text"] {
+	width: 100%;
+	font-family: Arial, Helvetica, sans-serif;	
+	display: inline-block;	
+	background: #000000;
+	border-color: #939394;
+	font-size: 22px;
+	height: 30px;
+	border-radius: 21px 21px 21px 21px;
+	color: #6d6d6d;
+}
+header .buscar form button {
+	background: #000000;
+	color: #939394;
+	border: none;
+}
+header .buscar form button:hover {
+	background: #000000;
+	color: #FFFFFF;
+} */
+
+/* --- MENU NAV --- */
+header .nav {
+	font-family: 'Roboto', sans-serif;	
+    font-size: 0.9vw;
+    font-weight: 300;
+    color: #666666;
+    overflow-x: hidden;	
+	background: #FFFFFF;
+	height: 64px;
+	margin: 0;
+	padding-right: 30px;
+}
+header .nav a {
+	color: #000000;
+	text-decoration: none;
+}
+header .nav span:hover{
+	color: #00B5EF;	
+}
+
+/* --- SLIDER --- */
+.carousel-inner img {
+    width: 100%;
+}
+.carousel-inner{
+ 	height: 400px;
+}
+.header-text1, 
+.header-text2,
+.header-text3 {
+	position: absolute;
+	font-family: 'Roboto Black', sans-serif;	
+    top: 20%;
+    width: 96.66666666666666%;
+	color: #FFFFFF;
+}
+.header-text1 #S1TT1 {
+	left: 1.8%;
+	letter-spacing: 3px;
+	font-size: 2.5vw;
+	opacity: 0.7;
+}
+.header-text1 #S1TT2 {
+	left: 1.8%;
+	letter-spacing: 3px;
+	font-size: 1.5vw;
+	opacity: 0.7;
+}
+.header-text1 #S1TT3 {
+	left: 1.8%;
+	letter-spacing: 3px;
+	font-size: 2.0vw;
+	opacity: 0.7;
+}
+.header-text2 #S2TT1 {
+	left: 1.8%;
+	letter-spacing: 3px;
+	font-size: 2vw;
+}
+.header-text2 #S2TT2 {
+	left: 1.8%;
+	letter-spacing: 3px;
+	font-size: 1.5vw;
+}
+.header-text2 #S2TT3 {
+	left: 1.8%;
+	letter-spacing: 3px;
+	font-size: 2vw;
+}
+.header-text3 #S3TT1 {
+	/* margin-top: 0.5%; */
+	margin-left: 50%;
+	letter-spacing: 3px;
+	font-size: 1.2vw;
+	opacity: 0.9;
+}
+.header-text3 #S3TT2 {
+	/* margin-top: 0.5%; */
+	margin-right: 20.5%;
+	letter-spacing: 3px;
+	font-size: 2.0vw;
+	opacity: 0.7;
+	line-height: 1.7;
+}
+.main-text {
+    color: red;
+	position: absolute;
+	margin-left: 1.5%;
+    top: 50%;
+    width: 96.6667%;
+}
+.btn-clear{
+	font-family: 'Roboto', sans-serif;	
+    color: #FFFFFF;
+    background-color:  red;
+    border-color: red;
+}
+.btn-clear:hover{
+    color: #FFFFFF;
+    background-color: transparent;
+}
+
+/* -----SECCION DESPUES DEL SLIDER ----- */
+/* .jumbo {
+	font-family: 'Roboto', sans-serif;
+	margin-top: 10px;
+    margin-bottom: 10px;	
+	border: none;
+	background: #F3F3F3;
+	color: #666666;	
+    width: 96.6667%;	
+}
+.jumbo #C3TT1 {
+	margin-top: 10px;	
+	font-size: 3vw;
+}
+.jumbo #C3TT2 {
+	margin-top: 10px;
+    margin-bottom: 20px;	
+	font-size: 1.0vw;
+}
+.jumbo .img {
+	font-family: 'Roboto', sans-serif;	
+	margin-top: 20px;	
+    margin-bottom: 3px;	
+	font-size: 1.5vw;
+}
+.jumbo .a {
+    margin-bottom: 10px;	
+	font-size: 2.0vw;
+} */
+
+/* -----SECCION DEL DASTBOARD ----- */
+/* .dastboard {
+	font-family: 'Roboto', sans-serif;
+	margin-top: 1.5%;
+    margin-bottom: 4%;	
+	border: none;
+	background: #F3F3F3;
+	color: #666666;	
+    width: 96.6667%;	
+} */
+
+
+/* --- CONTACTO --- */
+.contacto {
+	padding: 40px 0;
+	border-top: 1px solid #cbcbcb;
+	border-bottom: 1px solid #cbcbcb;
+	margin-bottom: 40px;
+}
+
+.contacto .titulo {
+	color: #003855;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 40px;
+	margin-bottom: 40px;
+	text-align: center;
+}
+
+.contacto .form-group {
+	margin-bottom: 0;
+}
+
+.formulario input[type="text"],
+.formulario input[type="email"],
+.formulario textarea {
+	padding: 15px;
+	border: none;
+	width: 100%;
+	font-family: 'Open Sans', sans-serif;
+	margin-bottom: 30px;
+}
+
+.formulario textarea {
+	height: 150px;
+	min-height: 150px;
+	max-height: 250px;
+}
+
+.formulario .boton {
+	background: #3da5e2;
+	border: none;
+	padding: 7px 30px;
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+	cursor: pointer;
+	width: auto;
+	border-radius: 3px;
+}
+
+.formulario .boton:hover {
+	background: #1BA0EF;
+}
+
+footer {
+	background: #F3F3F3;
+	margin-bottom : 0;
+}
+footer .main {
+	overflow: hidden;
+	background: #000000;
+	margin: 0;
+	margin-bottom : 0;
+}
+/* --- LOGO --- */
+footer .logo #consulta,
+footer .logo #mobil,
+footer .logo #mobil span {
+	cursor: pointer;	
+	padding-right: 20px;
+}
+footer .logo #consulta{
+	margin-left: 15px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 25px;
+    color: #FFFFFF;
+}
+footer .logo #mobil{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #005DAA;
+	font-size: 40px;
+}
+footer .logo #mobil span{
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 40px;
+    color:red;
+}
+
+/* .header-text h2 span {
+	padding: 10px;
+}
+.header-text h3 span {
+	padding: 15px;
+} */
+
+
+/* .carousel-caption {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	padding: 10px 15px 5px;
+	background: rgba(0,0,0,.75);
+ } */
+/* .main-text{
+    position: absolute;
+	top: 5%;
+    margin-left: 20%;	
+    width: 96.66666666666666%;
+    color: #FFFFFF;
+} */
+/* .btn-min-block{
+    min-width: 170px;
+    line-height: 26px;
+}
+.btn-clear{
+    color: #FFF;
+    background-color: transparent;
+    border-color: #FFF;
+    margin-right: 15px;
+}
+.btn-clear:hover{
+    color: #000;
+    background-color: #FFF;
+} */
+
+/* .carousel-caption {
+	position: absolute;
+    right: 1px;
+    top: 5%;
+    left: 1px;
+    z-index: 99;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+} */
+/* header .buscar form button {
+	width: 100%;
+	background: #000000;
+	border-color : #FFFFFF;
+	border: none;
+	font-size: 24px;
+	padding: 0 10px;
+	height: 25px;
+	line-height: 25px;
+	border-radius: 0 21px 21px 0;
+	cursor: pointer;
+	color: #6d6d6d;
+	font-family: 'Roboto', sans-serif;	
+} */
+
+/* header .buscar form input:hover {
+	background: #000000;
+	color: #FFFFFF;
+} */

@@ -1,0 +1,257 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1713" viewBox="0 0 1920 1713">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Web_1920_1);
+      }
+
+      .cls-2 {
+        fill: #707070;
+        font-size: 27px;
+        font-family: Osaka;
+      }
+
+      .cls-3 {
+        fill: #81d7f0;
+      }
+
+      .cls-10, .cls-13, .cls-14, .cls-15, .cls-4 {
+        stroke: #abd7fd;
+      }
+
+      .cls-10, .cls-14, .cls-15, .cls-4 {
+        stroke-width: 4px;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        fill: rgba(255,255,255,0.68);
+        font-size: 34px;
+      }
+
+      .cls-22, .cls-5 {
+        font-family: Helvetica;
+      }
+
+      .cls-10, .cls-19, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        font-size: 88px;
+        font-family: STHeitiSC-Medium, Heiti SC;
+        font-weight: 500;
+      }
+
+      .cls-6, .cls-8 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-7 {
+        font-size: 33px;
+      }
+
+      .cls-11, .cls-12, .cls-7, .cls-8 {
+        font-family: OpenSans, Open Sans;
+      }
+
+      .cls-21, .cls-8 {
+        font-size: 42px;
+      }
+
+      .cls-11, .cls-12 {
+        fill: #7b7474;
+      }
+
+      .cls-11 {
+        font-size: 26px;
+      }
+
+      .cls-12 {
+        font-size: 28px;
+      }
+
+      .cls-13, .cls-24 {
+        fill: none;
+      }
+
+      .cls-14 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-15 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-16 {
+        fill: #8196f0;
+      }
+
+      .cls-17 {
+        fill: #ac81f0;
+      }
+
+      .cls-18 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-19 {
+        font-size: 62px;
+        font-family: AppleSDGothicNeo-ExtraBold, Apple SD Gothic Neo;
+        font-weight: 800;
+      }
+
+      .cls-20 {
+        font-family: LucidaGrande-Bold, Lucida Grande;
+        font-weight: 700;
+      }
+
+      .cls-21 {
+        fill: #d68a0f;
+        font-family: AppleSDGothicNeo-SemiBold, Apple SD Gothic Neo;
+        font-weight: 600;
+      }
+
+      .cls-22 {
+        fill: #bcb8b8;
+        font-size: 36px;
+      }
+
+      .cls-23 {
+        stroke: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#81d7f0"/>
+      <stop offset="1" stop-color="#5a90f5"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8196f0"/>
+      <stop offset="1" stop-color="#5a90f5"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ac81f0"/>
+      <stop offset="1" stop-color="#5a90f5"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d86021"/>
+      <stop offset="1" stop-color="#ffd3a0"/>
+    </linearGradient>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1713"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" class="cls-1">
+    <rect class="cls-9" width="1920" height="1713"/>
+    <g id="Group_20" data-name="Group 20" transform="translate(-5 504)">
+      <text id="IDENTIFICACION_DE_CLIENTES" data-name="IDENTIFICACION DE CLIENTES" class="cls-2" transform="translate(178 211)"><tspan x="0" y="0">IDENTIFICACION DE CLIENTES</tspan></text>
+      <path id="ic_check_box_24px" class="cls-3" d="M31.327,3H6.541A3.54,3.54,0,0,0,3,6.541V31.327a3.54,3.54,0,0,0,3.541,3.541H31.327a3.54,3.54,0,0,0,3.541-3.541V6.541A3.54,3.54,0,0,0,31.327,3ZM15.393,27.786,6.541,18.934l2.5-2.5,6.356,6.338L28.831,9.338l2.5,2.514Z" transform="translate(124 181)"/>
+    </g>
+    <g id="Group_23" data-name="Group 23" transform="translate(-41 324)">
+      <g id="Rectangle_7" data-name="Rectangle 7" class="cls-4" transform="translate(145 516)">
+        <rect class="cls-23" width="466.171" height="653.848" rx="53"/>
+        <rect class="cls-24" x="2" y="2" width="462.171" height="649.848" rx="51"/>
+      </g>
+      <text id="Contenido_de_información" data-name="Contenido de información" class="cls-5" transform="translate(378.082 775.636)"><tspan x="-199.368" y="0">Precio unitario por registro</tspan></text>
+      <text id="s_0.90" data-name="s/ 0.90" class="cls-6" transform="translate(359.74 726.678)"><tspan x="-135.256" y="0">s/ 0.90</tspan></text>
+      <text id="CLIENTES_SELECCIONADOS" data-name="CLIENTES SELECCIONADOS" class="cls-7" transform="translate(378.022 564.145)"><tspan x="-207.563" y="0">CLIENTES SELECCIONADOS</tspan></text>
+      <text id="_19_686" data-name="19,686" class="cls-8" transform="translate(311.374 619.23)"><tspan x="0" y="0">19,686</tspan></text>
+      <path id="ic_keyboard_arrow_down_24px" class="cls-9" d="M4.289,0,18.25,16.688,32.211,0,36.5,5.138,18.25,27,0,5.138Z" transform="translate(396.552 1148.576) rotate(180)"/>
+      <g id="Group_22" data-name="Group 22" transform="translate(145 812.054)">
+        <g id="Rectangle_17" data-name="Rectangle 17" class="cls-10">
+          <rect class="cls-23" width="466" height="285"/>
+          <rect class="cls-24" x="2" y="2" width="462" height="281"/>
+        </g>
+        <text id="Total_de_clientes" data-name="Total de clientes" class="cls-11" transform="translate(41 68.301)"><tspan x="0" y="0">Total de clientes</tspan></text>
+        <text id="Total_de_clientes_en_Arequipa" data-name="Total de clientes
+en Arequipa" class="cls-11" transform="translate(41 128.486)"><tspan x="0" y="0">Total de clientes</tspan><tspan x="0" y="30">en Arequipa</tspan></text>
+        <text id="Total_de_clientes_Retail_en_Arequipa" data-name="Total de clientes
+Retail en Arequipa" class="cls-11" transform="translate(41 218.678)"><tspan x="0" y="0">Total de clientes</tspan><tspan x="0" y="30">Retail en Arequipa</tspan></text>
+        <text id="_19_686-2" data-name="19,686" class="cls-12" transform="translate(338 69.302)"><tspan x="0" y="0">19,686</tspan></text>
+        <text id="_3_027" data-name="3,027" class="cls-12" transform="translate(346 143.741)"><tspan x="0" y="0">3,027</tspan></text>
+        <text id="_1_508" data-name="1,508" class="cls-12" transform="translate(346 234.198)"><tspan x="0" y="0">1,508</tspan></text>
+      </g>
+      <line id="Line_1" data-name="Line 1" class="cls-13" x2="466" transform="translate(145.5 901.671)"/>
+      <line id="Line_2" data-name="Line 2" class="cls-13" x2="466" transform="translate(145.5 993.744)"/>
+    </g>
+    <g id="Group_25" data-name="Group 25" transform="translate(582 324)">
+      <g id="Rectangle_7-2" data-name="Rectangle 7" class="cls-14" transform="translate(145 516)">
+        <rect class="cls-23" width="466.171" height="653.848" rx="53"/>
+        <rect class="cls-24" x="2" y="2" width="462.171" height="649.848" rx="51"/>
+      </g>
+      <text id="Contenido_de_información-2" data-name="Contenido de información" class="cls-5" transform="translate(378.082 775.636)"><tspan x="-199.368" y="0">Precio unitario por registro</tspan></text>
+      <text id="s_0.05" data-name="s/ 0.05" class="cls-6" transform="translate(359.74 726.678)"><tspan x="-135.256" y="0">s/ 0.05</tspan></text>
+      <text id="CLIENTES_SELECCIONADOS-2" data-name="CLIENTES SELECCIONADOS" class="cls-7" transform="translate(378.022 564.145)"><tspan x="-207.563" y="0">CLIENTES SELECCIONADOS</tspan></text>
+      <text id="_53_345" data-name="53,345" class="cls-8" transform="translate(311.374 619.23)"><tspan x="0" y="0">53,345</tspan></text>
+      <path id="ic_keyboard_arrow_down_24px-2" data-name="ic_keyboard_arrow_down_24px" class="cls-9" d="M4.289,0,18.25,16.688,32.211,0,36.5,5.138,18.25,27,0,5.138Z" transform="translate(396.552 1148.576) rotate(180)"/>
+      <g id="Group_22-2" data-name="Group 22" transform="translate(145 812.054)">
+        <g id="Rectangle_17-2" data-name="Rectangle 17" class="cls-10">
+          <rect class="cls-23" width="466" height="285"/>
+          <rect class="cls-24" x="2" y="2" width="462" height="281"/>
+        </g>
+        <text id="Total_de_clientes-2" data-name="Total de clientes" class="cls-11" transform="translate(41 68.301)"><tspan x="0" y="0">Total de clientes</tspan></text>
+        <text id="Total_de_registros_según_especialidad" data-name="Total de registros
+según especialidad" class="cls-11" transform="translate(41 128.486)"><tspan x="0" y="0">Total de registros</tspan><tspan x="0" y="30">según especialidad</tspan></text>
+        <text id="Total_de_registros_según_linea_de_prod." data-name="Total de registros
+según linea de prod." class="cls-11" transform="translate(41 218.678)"><tspan x="0" y="0">Total de registros</tspan><tspan x="0" y="30">según linea de prod.</tspan></text>
+        <text id="_53_345-2" data-name="53,345" class="cls-12" transform="translate(346 70.302)"><tspan x="0" y="0">53,345</tspan></text>
+        <text id="_50_968" data-name="50,968" class="cls-12" transform="translate(346 143.741)"><tspan x="0" y="0">50,968</tspan></text>
+        <text id="_45_608" data-name="45,608" class="cls-12" transform="translate(346 234.198)"><tspan x="0" y="0">45,608</tspan></text>
+      </g>
+      <line id="Line_1-2" data-name="Line 1" class="cls-13" x2="466" transform="translate(145.5 901.671)"/>
+      <line id="Line_2-2" data-name="Line 2" class="cls-13" x2="466" transform="translate(145.5 993.744)"/>
+    </g>
+    <g id="Group_27" data-name="Group 27" transform="translate(1205 324)">
+      <g id="Rectangle_7-3" data-name="Rectangle 7" class="cls-15" transform="translate(145 516)">
+        <rect class="cls-23" width="466.171" height="653.848" rx="53"/>
+        <rect class="cls-24" x="2" y="2" width="462.171" height="649.848" rx="51"/>
+      </g>
+      <text id="Contenido_de_información-3" data-name="Contenido de información" class="cls-5" transform="translate(378.082 775.636)"><tspan x="-199.368" y="0">Precio unitario por registro</tspan></text>
+      <text id="s_0.12" data-name="s/ 0.12" class="cls-6" transform="translate(359.74 726.678)"><tspan x="-135.256" y="0">s/ 0.12</tspan></text>
+      <text id="CLIENTES_SELECCIONADOS-3" data-name="CLIENTES SELECCIONADOS" class="cls-7" transform="translate(378.022 564.145)"><tspan x="-207.563" y="0">CLIENTES SELECCIONADOS</tspan></text>
+      <text id="_14_708" data-name="14,708" class="cls-8" transform="translate(311.374 619.23)"><tspan x="0" y="0">14,708</tspan></text>
+      <path id="ic_keyboard_arrow_down_24px-3" data-name="ic_keyboard_arrow_down_24px" class="cls-9" d="M4.289,0,18.25,16.688,32.211,0,36.5,5.138,18.25,27,0,5.138Z" transform="translate(396.552 1148.576) rotate(180)"/>
+      <g id="Group_22-3" data-name="Group 22" transform="translate(145 812.054)">
+        <g id="Rectangle_17-3" data-name="Rectangle 17" class="cls-10">
+          <rect class="cls-23" width="466" height="285"/>
+          <rect class="cls-24" x="2" y="2" width="462" height="281"/>
+        </g>
+        <text id="Total_de_clientes-3" data-name="Total de clientes" class="cls-11" transform="translate(41 68.301)"><tspan x="0" y="0">Total de clientes</tspan></text>
+        <text id="Total_de_clientes_al_contado" data-name="Total de clientes
+al contado" class="cls-11" transform="translate(41 128.486)"><tspan x="0" y="0">Total de clientes</tspan><tspan x="0" y="30">al contado</tspan></text>
+        <text id="Total_de_clientes_con_crêdito" data-name="Total de clientes
+con crêdito" class="cls-11" transform="translate(41 218.678)"><tspan x="0" y="0">Total de clientes</tspan><tspan x="0" y="30">con crêdito</tspan></text>
+        <text id="_14_708-2" data-name="14,708" class="cls-12" transform="translate(338 69.302)"><tspan x="0" y="0">14,708</tspan></text>
+        <text id="_11_423" data-name="11,423" class="cls-12" transform="translate(338 144.741)"><tspan x="0" y="0">11,423</tspan></text>
+        <text id="_3_415" data-name="3,415" class="cls-12" transform="translate(346 234.198)"><tspan x="0" y="0">3,415</tspan></text>
+      </g>
+      <line id="Line_1-3" data-name="Line 1" class="cls-13" x2="466" transform="translate(145.5 901.671)"/>
+      <line id="Line_2-3" data-name="Line 2" class="cls-13" x2="466" transform="translate(145.5 993.744)"/>
+    </g>
+    <g id="Group_18" data-name="Group 18" transform="translate(-9 496)">
+      <text id="IDENTIFICACION_DE_CLIENTES-2" data-name="IDENTIFICACION DE CLIENTES" class="cls-2" transform="translate(805 211)"><tspan x="0" y="0">IDENTIFICACION DE CLIENTES</tspan></text>
+      <path id="ic_check_box_24px-2" data-name="ic_check_box_24px" class="cls-16" d="M31.327,3H6.541A3.54,3.54,0,0,0,3,6.541V31.327a3.54,3.54,0,0,0,3.541,3.541H31.327a3.54,3.54,0,0,0,3.541-3.541V6.541A3.54,3.54,0,0,0,31.327,3ZM15.393,27.786,6.541,18.934l2.5-2.5,6.356,6.338L28.831,9.338l2.5,2.514Z" transform="translate(751 181)"/>
+      <text id="DETALLES_POR_PRODUCTO" data-name="DETALLES POR PRODUCTO" class="cls-2" transform="translate(805 262)"><tspan x="0" y="0">DETALLES POR PRODUCTO</tspan></text>
+      <path id="ic_check_box_24px-3" data-name="ic_check_box_24px" class="cls-16" d="M31.327,3H6.541A3.54,3.54,0,0,0,3,6.541V31.327a3.54,3.54,0,0,0,3.541,3.541H31.327a3.54,3.54,0,0,0,3.541-3.541V6.541A3.54,3.54,0,0,0,31.327,3ZM15.393,27.786,6.541,18.934l2.5-2.5,6.356,6.338L28.831,9.338l2.5,2.514Z" transform="translate(751 232)"/>
+    </g>
+    <g id="Group_19" data-name="Group 19" transform="translate(5 496)">
+      <text id="IDENTIFICACION_DE_CLIENTES-3" data-name="IDENTIFICACION DE CLIENTES" class="cls-2" transform="translate(1414 211)"><tspan x="0" y="0">IDENTIFICACION DE CLIENTES</tspan></text>
+      <path id="ic_check_box_24px-4" data-name="ic_check_box_24px" class="cls-17" d="M31.327,3H6.541A3.54,3.54,0,0,0,3,6.541V31.327a3.54,3.54,0,0,0,3.541,3.541H31.327a3.54,3.54,0,0,0,3.541-3.541V6.541A3.54,3.54,0,0,0,31.327,3ZM15.393,27.786,6.541,18.934l2.5-2.5,6.356,6.338L28.831,9.338l2.5,2.514Z" transform="translate(1360 181)"/>
+      <text id="DETALLES_DE_PAGO" data-name="DETALLES DE PAGO" class="cls-2" transform="translate(1414 262)"><tspan x="0" y="0">DETALLES DE PAGO</tspan></text>
+      <path id="ic_check_box_24px-5" data-name="ic_check_box_24px" class="cls-17" d="M31.327,3H6.541A3.54,3.54,0,0,0,3,6.541V31.327a3.54,3.54,0,0,0,3.541,3.541H31.327a3.54,3.54,0,0,0,3.541-3.541V6.541A3.54,3.54,0,0,0,31.327,3ZM15.393,27.786,6.541,18.934l2.5-2.5,6.356,6.338L28.831,9.338l2.5,2.514Z" transform="translate(1360 232)"/>
+    </g>
+    <rect id="Rectangle_44" data-name="Rectangle 44" class="cls-18" width="1920" height="556"/>
+    <text id="Obtén_lo_que_buscas" data-name="Obtén lo que buscas" class="cls-19" transform="translate(362 287)"><tspan x="-280.362" y="0">Obt</tspan><tspan class="cls-20" y="0">é</tspan><tspan y="0">n lo que buscas</tspan></text>
+    <path id="Path_5" data-name="Path 5" class="cls-9" d="M1368,0H368.223L0,525.821H1368Z" transform="translate(552 30.179)"/>
+    <text id="TÚ_ELIGES_LA_PRECISIÓN" data-name="TÚ ELIGES LA PRECISIÓN" class="cls-21" transform="translate(1393 116)"><tspan x="-232.944" y="0">T</tspan><tspan class="cls-20" y="0">Ú</tspan><tspan y="0" xml:space="preserve"> ELIGES LA PRECISI</tspan><tspan class="cls-20" y="0">Ó</tspan><tspan y="0">N</tspan></text>
+    <text id="Opta_por_recibir_la_información_básica_de_cada_cliente_o_incluir_también_información_sobre_los_productos_que_compran_y_su_comportamiento_de_pago" data-name="Opta por recibir la información básica de cada cliente, o 
+incluir también información sobre los productos que compran 
+y su comportamiento de pago" class="cls-22" transform="translate(1368 175)"><tspan x="-449.235" y="0">Opta por recibir la información básica de cada cliente, o </tspan><tspan x="-491.247" y="44">incluir también información sobre los productos que compran </tspan><tspan x="-237.138" y="88">y su comportamiento de pago</tspan></text>
+    <text id="TÚ_DECIDES_LA_CANTIDAD" data-name="TÚ DECIDES LA CANTIDAD" class="cls-21" transform="translate(1393 408)"><tspan x="-244.195" y="0">T</tspan><tspan class="cls-20" y="0">Ú</tspan><tspan y="0" xml:space="preserve"> DECIDES LA CANTIDAD</tspan></text>
+    <text id="Elige_el_número_de_registros_que_deseas_obtener" data-name="Elige el número de registros que deseas obtener" class="cls-22" transform="translate(1368 467)"><tspan x="-388.239" y="0">Elige el número de registros que deseas obtener</tspan></text>
+    <rect id="Rectangle_45" data-name="Rectangle 45" class="cls-18" width="1920" height="103" transform="translate(0 1612)"/>
+  </g>
+</svg>

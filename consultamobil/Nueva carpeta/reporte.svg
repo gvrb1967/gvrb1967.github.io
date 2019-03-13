@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1412" height="513.368" viewBox="0 0 1412 513.368">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e8e8e4;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-7 {
+        stroke: #ff0009;
+      }
+
+      .cls-2, .cls-5 {
+        font-size: 15px;
+      }
+
+      .cls-2 {
+        font-family: Roboto-Light, Roboto;
+        font-weight: 300;
+      }
+
+      .cls-12, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke-width: 2px;
+      }
+
+      .cls-10, .cls-5, .cls-6, .cls-8, .cls-9 {
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-6 {
+        font-size: 20px;
+      }
+
+      .cls-8 {
+        font-size: 17px;
+      }
+
+      .cls-9 {
+        font-size: 25px;
+      }
+
+      .cls-10 {
+        font-size: 24px;
+      }
+
+      .cls-11 {
+        stroke: none;
+      }
+
+      .cls-13 {
+        filter: url(#Rectángulo_7);
+      }
+    </style>
+    <filter id="Rectángulo_7" x="0" y="0" width="1412" height="513.368" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#9dceff" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Reporte_del_Dashboard" data-name="Reporte del Dashboard" transform="translate(-459 -1587)">
+    <g class="cls-13" transform="matrix(1, 0, 0, 1, 459, 1587)">
+      <g id="Rectángulo_7-2" data-name="Rectángulo 7" class="cls-1" transform="translate(9 6)">
+        <rect class="cls-11" width="1394" height="495.368" rx="10"/>
+        <rect class="cls-12" x="0.5" y="0.5" width="1393" height="494.368" rx="9.5"/>
+      </g>
+    </g>
+    <text id="_7_168_250.00" data-name="7&apos;168,250.00" class="cls-2" transform="translate(1712.127 2070.368)"><tspan x="0" y="0">7&apos;168,250.00</tspan></text>
+    <line id="Línea_1" data-name="Línea 1" class="cls-3" x2="109" transform="translate(1688.5 2048.868)"/>
+    <g id="Mobil_super" data-name="Mobil super">
+      <text id="_323_400.00" data-name="323,400.00" class="cls-2" transform="translate(1723.127 2039.368)"><tspan x="0" y="0">323,400.00</tspan></text>
+      <text id="_1_020_180.00" data-name="1&apos;020,180.00" class="cls-2" transform="translate(1712.127 2020.368)"><tspan x="0" y="0">1&apos;020,180.00</tspan></text>
+      <text id="_593_750.00" data-name="593,750.00" class="cls-2" transform="translate(1723.127 2001.368)"><tspan x="0" y="0">593,750.00</tspan></text>
+      <text id="_652_750.00" data-name="652,750.00" class="cls-2" transform="translate(1723.127 1983.368)"><tspan x="0" y="0">652,750.00</tspan></text>
+      <text id="_1_081_700.00" data-name="1&apos;081,700.00" class="cls-2" transform="translate(1712.127 1964.368)"><tspan x="0" y="0">1&apos;081,700.00</tspan></text>
+      <text id="_387_920.00" data-name="387,920.00" class="cls-2" transform="translate(1723.127 1946.368)"><tspan x="0" y="0">387,920.00</tspan></text>
+      <text id="_5_000.00" data-name="5,000.00" class="cls-2" transform="translate(1740.127 1927.368)"><tspan x="0" y="0">5,000.00</tspan></text>
+      <text id="_169_460.00" data-name="169,460.00" class="cls-2" transform="translate(1723.127 1909.368)"><tspan x="0" y="0">169,460.00</tspan></text>
+      <text id="_238_500.00" data-name="238,500.00" class="cls-2" transform="translate(1723.127 1890.368)"><tspan x="0" y="0">238,500.00</tspan></text>
+      <text id="_294.00" data-name="294.00" class="cls-2" transform="translate(1495.127 2038.368)"><tspan x="0" y="0">294.00</tspan></text>
+      <text id="_294.00-2" data-name="294.00" class="cls-2" transform="translate(1495.127 2020.368)"><tspan x="0" y="0">294.00</tspan></text>
+      <text id="_475.00" data-name="475.00" class="cls-2" transform="translate(1495.127 2001.368)"><tspan x="0" y="0">475.00</tspan></text>
+      <text id="_373.00" data-name="373.00" class="cls-2" transform="translate(1495.127 1983.368)"><tspan x="0" y="0">373.00</tspan></text>
+      <text id="_373.00-2" data-name="373.00" class="cls-2" transform="translate(1495.127 1964.368)"><tspan x="0" y="0">373.00</tspan></text>
+      <text id="_373.00-3" data-name="373.00" class="cls-2" transform="translate(1495.127 1946.368)"><tspan x="0" y="0">373.00</tspan></text>
+      <text id="_125.00" data-name="125.00" class="cls-2" transform="translate(1495.127 1927.368)"><tspan x="0" y="0">125.00</tspan></text>
+      <text id="_229.00" data-name="229.00" class="cls-2" transform="translate(1495.127 1909.368)"><tspan x="0" y="0">229.00</tspan></text>
+      <text id="_265.00" data-name="265.00" class="cls-2" transform="translate(1495.127 1890.368)"><tspan x="0" y="0">265.00</tspan></text>
+      <text id="_1_100_Cajas" data-name="1,100 Cajas" class="cls-2" transform="translate(1195.932 2039.368)"><tspan x="0" y="0">1,100 Cajas</tspan></text>
+      <text id="_3_470_Cajas" data-name="3,470 Cajas" class="cls-2" transform="translate(1195.932 2020.368)"><tspan x="0" y="0">3,470 Cajas</tspan></text>
+      <text id="_1_250_Cajas" data-name="1,250 Cajas" class="cls-2" transform="translate(1195.932 2002.368)"><tspan x="0" y="0">1,250 Cajas</tspan></text>
+      <text id="_1_750_Cajas" data-name="1,750 Cajas" class="cls-2" transform="translate(1195.932 1983.368)"><tspan x="0" y="0">1,750 Cajas</tspan></text>
+      <text id="_2_900_Cajas" data-name="2,900 Cajas" class="cls-2" transform="translate(1195.932 1965.368)"><tspan x="0" y="0">2,900 Cajas</tspan></text>
+      <text id="_1_040_Cajas" data-name="1,040 Cajas" class="cls-2" transform="translate(1195.932 1946.368)"><tspan x="0" y="0">1,040 Cajas</tspan></text>
+      <text id="_40_Cajas" data-name="  40 Cajas" class="cls-2" transform="translate(1206.107 1927.368)"><tspan x="0" y="0" xml:space="preserve">  40 Cajas</tspan></text>
+      <text id="_740_Cajas" data-name="740 Cajas" class="cls-2" transform="translate(1205.944 1909.368)"><tspan x="0" y="0">740 Cajas</tspan></text>
+      <text id="_900_Cajas" data-name="900 Cajas" class="cls-2" transform="translate(1205.944 1890.368)"><tspan x="0" y="0">900 Cajas</tspan></text>
+      <text id="MOBIL_SUPER_1000_10W30_SN_12_X_1Q" data-name="MOBIL SUPER 1000 10W30 SN 12 X 1Q" class="cls-2" transform="translate(782 2038.368)"><tspan x="0" y="0">MOBIL SUPER 1000 10W30 SN 12 X 1Q</tspan></text>
+      <text id="MOBIL_SUPER_1000_20W50_SN_12_X_1Q" data-name="MOBIL SUPER 1000 20W50 SN 12 X 1Q" class="cls-2" transform="translate(782 2020.368)"><tspan x="0" y="0">MOBIL SUPER 1000 20W50 SN 12 X 1Q</tspan></text>
+      <text id="MOBIL_SUPER_2000_5W30_4_X_1_GL." data-name="MOBIL SUPER 2000 5W30 4 X 1 GL." class="cls-2" transform="translate(782 2001.368)"><tspan x="0" y="0">MOBIL SUPER 2000 5W30 4 X 1 GL.</tspan></text>
+      <text id="MOBIL_SUPER_2000_5W30_12_X_1Q" data-name="MOBIL SUPER 2000 5W30 12 X 1Q" class="cls-2" transform="translate(782 1983.368)"><tspan x="0" y="0">MOBIL SUPER 2000 5W30 12 X 1Q</tspan></text>
+      <text id="MOBIL_SUPER_1000_20W50_SN_4_X_1_GL." data-name="MOBIL SUPER 1000 20W50 SN 4 X 1 GL." class="cls-2" transform="translate(782 1964.368)"><tspan x="0" y="0">MOBIL SUPER 1000 20W50 SN 4 X 1 GL.</tspan></text>
+      <text id="MOBIL_SUPER_1000_10W30_SN_4_X_1_GL." data-name="MOBIL SUPER 1000 10W30 SN 4 X 1 GL." class="cls-2" transform="translate(782 1946.368)"><tspan x="0" y="0">MOBIL SUPER 1000 10W30 SN 4 X 1 GL.</tspan></text>
+      <text id="MOBIL_SUPER_2T_SCHT_40_X_0.20L" data-name="MOBIL SUPER 2T, SCHT 40 X 0.20L" class="cls-2" transform="translate(782 1927.368)"><tspan x="0" y="0">MOBIL SUPER 2T, SCHT 40 X 0.20L</tspan></text>
+      <text id="MOBIL_SUPER_M_4T_25W50_12_X_1Q" data-name="MOBIL SUPER M 4T 25W50 12 X 1Q" class="cls-2" transform="translate(782 1909.368)"><tspan x="0" y="0">MOBIL SUPER M 4T 25W50 12 X 1Q</tspan></text>
+      <text id="MOBIL_SUPER_M_4T_20W50_12_X_1Q_GF5" data-name="MOBIL SUPER M 4T 20W50 12 X 1Q GF5" class="cls-2" transform="translate(782 1890.368)"><tspan x="0" y="0">MOBIL SUPER M 4T 20W50 12 X 1Q GF5</tspan></text>
+    </g>
+    <path id="Trazado_3" data-name="Trazado 3" class="cls-4" d="M0,0H1271" transform="translate(533.5 1869.923)"/>
+    <g id="Mobil_1" data-name="Mobil 1">
+      <text id="_767_000.00" data-name="767,000.00" class="cls-2" transform="translate(1723.127 1857.368)"><tspan x="0" y="0">767,000.00</tspan></text>
+      <text id="_22_050.00" data-name="22,050.00" class="cls-2" transform="translate(1731.127 1839.368)"><tspan x="0" y="0">22,050.00</tspan></text>
+      <text id="_10_150.00" data-name="10,150.00" class="cls-2" transform="translate(1731.127 1820.368)"><tspan x="0" y="0">10,150.00</tspan></text>
+      <text id="_11_760.00" data-name="11,760.00" class="cls-2" transform="translate(1731.127 1801.368)"><tspan x="0" y="0">11,760.00</tspan></text>
+      <text id="_1_866_900.00" data-name="1&apos;866,900.00" class="cls-2" transform="translate(1712.127 1783.368)"><tspan x="0" y="0">1&apos;866,900.00</tspan></text>
+      <text id="_17_730.00" data-name="17,730.00" class="cls-2" transform="translate(1731.127 1765.368)"><tspan x="0" y="0">17,730.00</tspan></text>
+      <text id="_295.00" data-name="295.00" class="cls-2" transform="translate(1495.127 1855.368)"><tspan x="0" y="0">295.00</tspan></text>
+      <text id="_294.00-3" data-name="294.00" class="cls-2" transform="translate(1495.127 1837.368)"><tspan x="0" y="0">294.00</tspan></text>
+      <text id="_290.00" data-name="290.00" class="cls-2" transform="translate(1495.127 1819.368)"><tspan x="0" y="0">290.00</tspan></text>
+      <text id="_294.00-4" data-name="294.00" class="cls-2" transform="translate(1495.127 1801.368)"><tspan x="0" y="0">294.00</tspan></text>
+      <text id="_294.00-5" data-name="294.00" class="cls-2" transform="translate(1495.127 1783.368)"><tspan x="0" y="0">294.00</tspan></text>
+      <text id="_591.00" data-name="591.00" class="cls-2" transform="translate(1495.127 1765.368)"><tspan x="0" y="0">591.00</tspan></text>
+      <text id="_2_600_Cajas" data-name="2,600 Cajas" class="cls-2" transform="translate(1195.202 1855.368)"><tspan x="0" y="0">2,600 Cajas</tspan></text>
+      <text id="_75_Cajas" data-name="  75 Cajas" class="cls-2" transform="translate(1206.107 1837.368)"><tspan x="0" y="0" xml:space="preserve">  75 Cajas</tspan></text>
+      <text id="_35_Cajas" data-name="  35 Cajas" class="cls-2" transform="translate(1206.107 1819.368)"><tspan x="0" y="0" xml:space="preserve">  35 Cajas</tspan></text>
+      <text id="_40_Cajas-2" data-name="  40 Cajas" class="cls-2" transform="translate(1206.107 1801.368)"><tspan x="0" y="0" xml:space="preserve">  40 Cajas</tspan></text>
+      <text id="_6_350_Cajas" data-name="6,350 Cajas" class="cls-2" transform="translate(1195.202 1782.368)"><tspan x="0" y="0">6,350 Cajas</tspan></text>
+      <text id="_30_Cajas" data-name="  30 Cajas" class="cls-2" transform="translate(1206.107 1765.368)"><tspan x="0" y="0" xml:space="preserve">  30 Cajas</tspan></text>
+      <text id="MOBIL_1_5W30_CASE_6_X_0.95L_0.25_USG" data-name="MOBIL 1 5W30 CASE 6 X 0.95L / 0.25 USG" class="cls-2" transform="translate(782 1855.368)"><tspan x="0" y="0">MOBIL 1 5W30 CASE 6 X 0.95L / 0.25 USG</tspan></text>
+      <text id="MOBIL_1_5W20_6_X_0.95L_0.25_USG" data-name="MOBIL 1 5W20 6 X 0.95L / 0.25 USG" class="cls-2" transform="translate(782 1837.368)"><tspan x="0" y="0">MOBIL 1 5W20 6 X 0.95L / 0.25 USG</tspan></text>
+      <text id="MOBIL_1_RACING_4T_10W40_6_X_1Q" data-name="MOBIL 1 RACING 4T 10W40 6 X 1Q" class="cls-2" transform="translate(782 1819.368)"><tspan x="0" y="0">MOBIL 1 RACING 4T 10W40 6 X 1Q</tspan></text>
+      <text id="MOBIL_1_5W50_6_X_1Q" data-name="MOBIL 1 5W50 6 X 1Q" class="cls-2" transform="translate(782 1801.368)"><tspan x="0" y="0">MOBIL 1 5W50 6 X 1Q</tspan></text>
+      <text id="MOBIL_1_0W40_6_X_1Q" data-name="MOBIL 1 0W40 6 X 1Q" class="cls-2" transform="translate(782 1783.368)"><tspan x="0" y="0">MOBIL 1 0W40 6 X 1Q</tspan></text>
+      <text id="MOBIL_1_ESP_FORM_5W30_12_X_1Q" data-name="MOBIL 1 ESP FORM 5W30 12 X 1Q" class="cls-2" transform="translate(782 1765.368)"><tspan x="0" y="0">MOBIL 1 ESP FORM 5W30 12 X 1Q</tspan></text>
+    </g>
+    <g id="Forma_de_pago" data-name="Forma de pago">
+      <text id="_7_Crédito_45_días" data-name="  7%   Crédito 45 días" class="cls-5" transform="translate(533.127 1858.368)"><tspan x="0" y="0" xml:space="preserve">  7%   Crédito 45 días</tspan></text>
+      <text id="_1_Crédito_40_días" data-name="  1%   Crédito 40 días" class="cls-5" transform="translate(533.127 1839.368)"><tspan x="0" y="0" xml:space="preserve">  1%   Crédito 40 días</tspan></text>
+      <text id="_18_Crédito_30_días" data-name="18%   Crédito 30 días" class="cls-5" transform="translate(533.127 1820.368)"><tspan x="0" y="0" xml:space="preserve">18%   Crédito 30 días</tspan></text>
+      <text id="_74_Contado" data-name="74%   Contado" class="cls-5" transform="translate(533.127 1802.368)"><tspan x="0" y="0" xml:space="preserve">74%   Contado</tspan></text>
+    </g>
+    <text id="Motores_a_Gasolina" data-name="Motores a Gasolina" class="cls-6" transform="translate(533 1767.423)"><tspan x="0" y="0">Motores a Gasolina</tspan></text>
+    <g id="Cabecera_Dashboard" data-name="Cabecera Dashboard">
+      <path id="Trazado_2" data-name="Trazado 2" class="cls-7" d="M0,0H1271" transform="translate(533.5 1732.462)"/>
+      <text id="Venta_promedio_anual" data-name="Venta promedio anual" class="cls-8" transform="translate(1638.5 1721.612)"><tspan x="0" y="0">Venta promedio anual</tspan></text>
+      <text id="P._Unitario_Promedio" data-name="P. Unitario Promedio" class="cls-8" transform="translate(1439.5 1721.612)"><tspan x="0" y="0">P. Unitario Promedio</tspan></text>
+      <text id="Compra_promedio_anual" data-name="Compra promedio anual" class="cls-8" transform="translate(1151.083 1721.612)"><tspan x="0" y="0">Compra promedio anual</tspan></text>
+      <text id="Línea_de_producto" data-name="Línea de producto" class="cls-8" transform="translate(781.601 1721.612)"><tspan x="0" y="0">Línea de producto</tspan></text>
+      <text id="Especialidad" class="cls-8" transform="translate(533 1721.612)"><tspan x="0" y="0">Especialidad</tspan></text>
+      <text id="Motores_a_Gasolina-2" data-name="Motores a Gasolina" class="cls-8" transform="translate(1220 1653.368)"><tspan x="0" y="0">Motores a Gasolina</tspan></text>
+      <text id="Especialidad:" class="cls-8" transform="translate(1101 1653.368)"><tspan x="0" y="0">Especialidad:</tspan></text>
+      <text id="Clientes_Retail_Dpto._de_Arequipa" data-name="Clientes Retail Dpto. de Arequipa" class="cls-9" transform="translate(1052 1603.368)"><tspan x="0" y="24">Clientes Retail Dpto. de Arequipa</tspan></text>
+      <text id="Resumen_de_Información:_" data-name="Resumen de Información: " class="cls-10" transform="translate(533 1629)"><tspan x="0" y="0">Resumen de Información: </tspan></text>
+    </g>
+  </g>
+</svg>
